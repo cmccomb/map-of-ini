@@ -16,7 +16,7 @@ jobs:
   call-workflow-passing-data:
     uses: cmccomb/map-of-research/.github/workflows/update.yml@main
     secrets:
-      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      token: ${{ secrets.GITHUB_TOKEN }}
 #
 #env:
 #  CARGO_TERM_COLOR: always
