@@ -5,7 +5,7 @@
         "citation": "TPRC47: The 47th Research Conference on Communication, Information and …, 2019"
     },
     {
-        "title": "A Techno-Economic Study of Spectrum Sharing with Blockchain and Smart Contracts",
+        "title": "A techno-economic study of spectrum sharing with blockchain and smart contracts",
         "pub_year": "2022",
         "citation": "IEEE Communications Magazine 61 (2), 58-63, 2022"
     },
@@ -31,8 +31,8 @@
     },
     {
         "title": "Analyzing Usage Conflict Situations in Localized Spectrum Sharing Scenarios: An Agent-Based Modeling and Machine Learning Approach",
-        "pub_year": "2022",
-        "citation": "University of Pittsburgh, 2022"
+        "pub_year": "2021",
+        "citation": "University of Pittsburgh, 2021"
     },
     {
         "title": "Crowdsourced misuse detection in dynamic spectrum sharing wireless networks",
@@ -110,11 +110,6 @@
         "citation": "Available at SSRN 4178664, 2022"
     },
     {
-        "title": "Spectrum Rights in Outer Space: Interference Management for Mega-constellations",
-        "pub_year": "2022",
-        "citation": "Available at SSRN 4178793, 2022"
-    },
-    {
         "title": "Spectrum anarchy: why self-governance of the radio spectrum works better than we think",
         "pub_year": "2020",
         "citation": "Journal of Institutional Economics 16 (6), 863-882, 2020"
@@ -123,6 +118,11 @@
         "title": "Spectrum misuse detection in cooperative wireless networks",
         "pub_year": "2020",
         "citation": "2020 IEEE 17th Annual Consumer Communications & Networking Conference (CCNC …, 2020"
+    },
+    {
+        "title": "Spectrum rights in outer space: Interference management for mega-constellations",
+        "pub_year": "2022",
+        "citation": "Available at SSRN 4178793, 2022"
     },
     {
         "title": "Toward Automated Enforcement of Radio Interference",

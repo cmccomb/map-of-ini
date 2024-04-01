@@ -135,7 +135,7 @@
         "citation": "IEEE International Conference on Sensing, Communication, and Networking (SECON), 2013"
     },
     {
-        "title": "I did not smoke 100 cigarettes today! Avoiding false positives in real-world activity recognition",
+        "title": "I did not smoke 100 cigarettes today! avoiding false positives in real-world activity recognition",
         "pub_year": "2015",
         "citation": "Proceedings of the 2015 ACM International Joint Conference on Pervasive and …, 2015"
     },
@@ -288,7 +288,7 @@
         "citation": "Proceedings of the 2014 ACM SIGSAC conference on computer and communications …, 2014"
     },
     {
-        "title": "On the security of thread networks: Experimentation with OpenThread-enabled devices",
+        "title": "On the security of thread networks: Experimentation with openthread-enabled devices",
         "pub_year": "2022",
         "citation": "Proceedings of the 15th ACM Conference on Security and Privacy in Wireless …, 2022"
     },
@@ -549,12 +549,12 @@
         "citation": ""
     },
     {
-        "title": "Xrec: Behavior-based user recognition across mobile devices",
+        "title": "XRec: Behavior-based user recognition across mobile devices",
         "pub_year": "2017",
         "citation": "Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous …, 2017"
     },
     {
-        "title": "Zigator: Analyzing the security of zigbee-enabled smart homes",
+        "title": "Zigator: analyzing the security of zigbee-enabled smart homes",
         "pub_year": "2020",
         "citation": "Proceedings of the 13th ACM Conference on Security and Privacy in Wireless …, 2020"
     },
