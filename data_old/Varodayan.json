@@ -1,0 +1,224 @@
+[
+    {
+        "title": "Adaptive distributed source coding",
+        "pub_year": "2011",
+        "citation": "IEEE Transactions on Image Processing 21 (5), 2630-2640, 2011"
+    },
+    {
+        "title": "Audio authentication based on distributed source coding",
+        "pub_year": "2008",
+        "citation": "2008 IEEE International Conference on Acoustics, Speech and Signal …, 2008"
+    },
+    {
+        "title": "Authenticated media communication system and approach",
+        "pub_year": "2009",
+        "citation": "US Patent App. 12/196,643, 2009"
+    },
+    {
+        "title": "Authenticating contrast and brightness adjusted images using distributed source coding and expectation maximization",
+        "pub_year": "2008",
+        "citation": "2008 IEEE International Conference on Multimedia and Expo, 613-616, 2008"
+    },
+    {
+        "title": "Authenticating cropped and resized images using distributed source coding and expectation maximization",
+        "pub_year": "2009",
+        "citation": "Media Forensics and Security 7254, 345-352, 2009"
+    },
+    {
+        "title": "Collusion-aware traitor tracing in multimedia fingerprinting using sparse signal approximation",
+        "pub_year": "2008",
+        "citation": "2008 IEEE International Conference on Acoustics, Speech and Signal …, 2008"
+    },
+    {
+        "title": "Didstributed source coding authentication of images with affine warping",
+        "pub_year": "2009",
+        "citation": "2009 IEEE International Conference on Acoustics, Speech and Signal …, 2009"
+    },
+    {
+        "title": "Distortion-aware retransmission and concealment of video packets using a Wyner-Ziv-coded thumbnail",
+        "pub_year": "2008",
+        "citation": "2008 IEEE 10th Workshop on Multimedia Signal Processing, 424-428, 2008"
+    },
+    {
+        "title": "Distributed Compression of Stereoscopic Images with Unsupervised Learning of Disparity",
+        "citation": ""
+    },
+    {
+        "title": "Distributed coding of random dot stereograms with unsupervised learning of disparity",
+        "pub_year": "2006",
+        "citation": "2006 IEEE Workshop on Multimedia Signal Processing, 5-8, 2006"
+    },
+    {
+        "title": "Distributed grayscale stereo image coding with unsupervised learning of disparity",
+        "pub_year": "2007",
+        "citation": "2007 Data Compression Conference (DCC'07), 143-152, 2007"
+    },
+    {
+        "title": "Distributed source coding",
+        "pub_year": "2009",
+        "citation": "Handbook on array processing and sensor networks, 609-643, 2009"
+    },
+    {
+        "title": "Distributed source coding authentication of images with contrast and brightness adjustment and affine warping",
+        "pub_year": "2009",
+        "citation": "2009 Picture Coding Symposium, 1-4, 2009"
+    },
+    {
+        "title": "Distributed stereo image coding with improved disparity and noise estimation",
+        "pub_year": "2008",
+        "citation": "2008 IEEE International Conference on Acoustics, Speech and Signal …, 2008"
+    },
+    {
+        "title": "Error-resilient live video multicast using low-rate visual quality feedback",
+        "pub_year": "2011",
+        "citation": "Proceedings of the second annual ACM conference on Multimedia systems, 233-244, 2011"
+    },
+    {
+        "title": "Exploiting spatial correlation in pixel-domain distributed image compression",
+        "pub_year": "2006",
+        "citation": "Proc. Picture Coding Symp, 1-4, 2006"
+    },
+    {
+        "title": "Image authentication and tampering localization using distributed source coding",
+        "pub_year": "2007",
+        "citation": "2007 IEEE 9th Workshop on Multimedia Signal Processing, 393-396, 2007"
+    },
+    {
+        "title": "Image authentication based on distributed source coding",
+        "pub_year": "2007",
+        "citation": "2007 IEEE International Conference on Image Processing 3, III-5-III-8, 2007"
+    },
+    {
+        "title": "Image authentication using distributed source coding",
+        "pub_year": "2011",
+        "citation": "IEEE Transactions on Image Processing 21 (1), 273-283, 2011"
+    },
+    {
+        "title": "Investigation of the Elias product code construction for the binary erasure channel",
+        "pub_year": "2002",
+        "citation": "BAS Thesis, University of Toronto 154, 2002"
+    },
+    {
+        "title": "Localization of tampering in contrast and brightness adjusted images using distributed source coding and expectation maximization",
+        "pub_year": "2008",
+        "citation": "2008 15th IEEE International Conference on Image Processing, 2204-2207, 2008"
+    },
+    {
+        "title": "Minority merit: Improving retention with cooperative learning in a first-year electronics course",
+        "pub_year": "2016",
+        "citation": "2016 IEEE Frontiers in Education Conference (FIE), 1-5, 2016"
+    },
+    {
+        "title": "Network image coding for multicast",
+        "pub_year": "2008",
+        "citation": "2008 IEEE 10th Workshop on Multimedia Signal Processing, 365-370, 2008"
+    },
+    {
+        "title": "Optimal electric energy storage operation",
+        "pub_year": "2012",
+        "citation": "Power and Energy Society General Meeting, 2012 IEEE, 1 - 6, 2012"
+    },
+    {
+        "title": "Optimal slice size for streaming regions of high resolution video with virtual pan/tilt/zoom functionality",
+        "pub_year": "2007",
+        "citation": "2007 15th European Signal Processing Conference, 1275-1279, 2007"
+    },
+    {
+        "title": "Rate-adaptive codes for distributed source coding",
+        "pub_year": "2006",
+        "citation": "Signal processing 86 (11), 3123-3130, 2006"
+    },
+    {
+        "title": "Rate-adaptive distributed source coding using low-density parity-check codes",
+        "pub_year": "2005",
+        "citation": "Proc. Asilomar Conf. on Signals, Syst., Comput., Pacific Grove, CA, 2005"
+    },
+    {
+        "title": "Reduced-reference image quality estimation using distributed source coding",
+        "pub_year": "2008",
+        "citation": "IEEE International Conference on Multimedia and Expo, Hannover, Germany, 2008"
+    },
+    {
+        "title": "Redundant metering for integrity with information-theoretic confidentiality",
+        "pub_year": "2010",
+        "citation": "2010 first IEEE international conference on smart grid communications, 345-349, 2010"
+    },
+    {
+        "title": "Region-of-interest prediction for interactively streaming regions of high resolution video",
+        "pub_year": "2007",
+        "citation": "Packet Video 2007, 68-77, 2007"
+    },
+    {
+        "title": "Side-information-adaptive distributed source coding",
+        "pub_year": "2010",
+        "citation": "2010 IEEE International Conference on Image Processing, 3729-3732, 2010"
+    },
+    {
+        "title": "Smart meter privacy using a rechargeable battery: Minimizing the rate of information leakage",
+        "pub_year": "2011",
+        "citation": "2011 IEEE International Conference on Acoustics, Speech and Signal …, 2011"
+    },
+    {
+        "title": "Spatial Models for Localization of Image Tampering using Distributed Source Codes",
+        "citation": ""
+    },
+    {
+        "title": "Spatial models for localization of image tampering using distributed source codes",
+        "pub_year": "2007",
+        "citation": "Picture Coding Symposium (PCS), Lisbon, Portugal, 2007"
+    },
+    {
+        "title": "Trellis and convolutional precoding for transmitter-based interference presubtraction",
+        "pub_year": "2005",
+        "citation": "IEEE Transactions on Communications 53 (7), 1220-1230, 2005"
+    },
+    {
+        "title": "Video Encoding Using Visual Quality Feedback",
+        "pub_year": "2013",
+        "citation": "US Patent App. 13/179,789, 2013"
+    },
+    {
+        "title": "Video quality monitoring for mobile multicast peers using distributed source coding",
+        "pub_year": "2009",
+        "citation": "Proceedings of the 5th International ICST Mobile Multimedia Communications …, 2009"
+    },
+    {
+        "title": "Visual Code Marker Detection",
+        "pub_year": "2006",
+        "citation": "Dept of Electrical Engineering Stand ford University., 2006"
+    },
+    {
+        "title": "Wyner-Ziv Coding of Coding of Multiview Multiview Images with Images with Unsupervised Learning of Two Disparities",
+        "citation": ""
+    },
+    {
+        "title": "Wyner-Ziv coding of multiview images with unsupervised learning of disparity and Gray code",
+        "pub_year": "2008",
+        "citation": "2008 15th IEEE International Conference on Image Processing, 1112-1115, 2008"
+    },
+    {
+        "title": "Wyner-Ziv coding of multiview images with unsupervised learning of two disparities",
+        "pub_year": "2008",
+        "citation": "2008 IEEE International Conference on Multimedia and Expo, 629-632, 2008"
+    },
+    {
+        "title": "Wyner-Ziv coding of stereo images with unsupervised learning of disparity",
+        "pub_year": "2007",
+        "citation": "Proc. Picture Coding Symp, 1-4, 2007"
+    },
+    {
+        "title": "Wyner-Ziv coding of still images with rate estimation at the encoder",
+        "pub_year": "2002",
+        "citation": "EE398B Project Final Report, mai 2004, 2002"
+    },
+    {
+        "title": "Wyner-Ziv residual coding of video",
+        "pub_year": "2006",
+        "citation": "Proceedings Picture Coding Symposium, 2006"
+    },
+    {
+        "title": "Wyner–Ziv coding of video with unsupervised motion vector learning",
+        "pub_year": "2008",
+        "citation": "Signal Processing: Image Communication 23 (5), 369-378, 2008"
+    }
+]

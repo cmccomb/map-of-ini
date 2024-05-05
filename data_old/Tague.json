@@ -1,0 +1,566 @@
+[
+    {
+        "title": "A Toolbox to Explore the Interaction of Adaptive Jamming and Anti-Jamming",
+        "pub_year": "2012",
+        "citation": "31st IEEE Conference on Computer Communications (INFOCOM), 2012"
+    },
+    {
+        "title": "A canonical seed assignment model for key predistribution in wireless sensor networks",
+        "pub_year": "2007",
+        "citation": "ACM Transactions on Sensor Networks (TOSN) 3 (4), 19-es, 2007"
+    },
+    {
+        "title": "A coding-theoretic approach for efficient message verification over insecure channels",
+        "pub_year": "2009",
+        "citation": "Proceedings of the second ACM conference on Wireless network security, 151-160, 2009"
+    },
+    {
+        "title": "A game-theoretic framework for jamming attacks and mitigation in commercial aircraft wireless networks",
+        "pub_year": "2009",
+        "citation": "AIAA Infotech@ Aerospace Conference and AIAA Unmanned... Unlimited …, 2009"
+    },
+    {
+        "title": "A general probabilistic model for improving key assignment in wireless networks",
+        "pub_year": "2006",
+        "citation": "2006 4th International Symposium on Modeling and Optimization in Mobile, Ad …, 2006"
+    },
+    {
+        "title": "A jamming approach to enhance enterprise Wi-Fi secrecy through spatial access control",
+        "pub_year": "2015",
+        "citation": "Wireless Networks 21, 2631-2647, 2015"
+    },
+    {
+        "title": "A set-covering approach for modeling attacks on key predistribution in wireless sensor networks",
+        "pub_year": "2005",
+        "citation": "2005 3rd International Conference on Intelligent Sensing and Information …, 2005"
+    },
+    {
+        "title": "A5: Automated analysis of adversarial android applications",
+        "pub_year": "2014",
+        "citation": "Proceedings of the 4th ACM Workshop on Security and Privacy in Smartphones …, 2014"
+    },
+    {
+        "title": "ASIA: Accelerated Secure In-network Aggregation in Vehicular Sensing Networks",
+        "pub_year": "2013",
+        "citation": "IEEE International Conference on Sensing, Communication, and Networking (SECON), 2013"
+    },
+    {
+        "title": "All your jammers belong to us—Localization of wireless sensors under jamming attack",
+        "pub_year": "2012",
+        "citation": "2012 IEEE International Conference on Communications (ICC), 949-954, 2012"
+    },
+    {
+        "title": "All your screens are belong to us: attacks exploiting the html5 screen sharing api",
+        "pub_year": "2014",
+        "citation": "2014 IEEE Symposium on Security and Privacy, 34-48, 2014"
+    },
+    {
+        "title": "Anubis: An attestation protocol for distributed context-aware applications",
+        "pub_year": "2010",
+        "citation": "2010 Sixth International Conference on Intelligent Sensors, Sensor Networks …, 2010"
+    },
+    {
+        "title": "Associating a user identity with a mobile device identity",
+        "pub_year": "2019",
+        "citation": "US Patent 10,354,145, 2019"
+    },
+    {
+        "title": "Carving Secure Wi-Fi Zones with Defensive Jamming",
+        "pub_year": "2012",
+        "citation": "7th ACM Symposium on Information, Computer, and Communications Security …, 2012"
+    },
+    {
+        "title": "Convoy: Physical context verification for vehicle platoon admission",
+        "pub_year": "2017",
+        "citation": "Proceedings of the 18th International Workshop on Mobile Computing Systems …, 2017"
+    },
+    {
+        "title": "Crossmobile: A cross-layer architecture for next-generation wireless systems",
+        "pub_year": "2014",
+        "citation": "Silicon Valley Technical Report Series CMU-SV-14-001, 2014"
+    },
+    {
+        "title": "DDoS-as-a-smokescreen: Leveraging NetFlow concurrency and segmentation for faster detection",
+        "pub_year": "2021",
+        "citation": "2021 Third IEEE International Conference on Trust, Privacy and Security in …, 2021"
+    },
+    {
+        "title": "Datanet: Enabling Seamless, Metered and Trusted Internet Connectivity without Subscriptions",
+        "pub_year": "2021",
+        "citation": "2021 IEEE International Conference on Communications Workshops (ICC …, 2021"
+    },
+    {
+        "title": "Designing for self-configuration and self-adaptation in the Internet of Things",
+        "pub_year": "2013",
+        "citation": "9th IEEE International Conference on Collaborative Computing: Networking …, 2013"
+    },
+    {
+        "title": "Detecting Attacks against Zigbee Networks with HiveGuard",
+        "pub_year": "2021",
+        "citation": "Proceedings of the 2021 CyLab Partners Conference, Virtual Event, 5-6, 2021"
+    },
+    {
+        "title": "Digital filter design for jamming mitigation in 802.15. 4 communication",
+        "pub_year": "2011",
+        "citation": "2011 Proceedings of 20th International Conference on Computer Communications …, 2011"
+    },
+    {
+        "title": "Do you feel what I hear? Enabling autonomous IoT device pairing using different sensor types",
+        "pub_year": "2018",
+        "citation": "2018 IEEE symposium on Security and Privacy (SP), 836-852, 2018"
+    },
+    {
+        "title": "Energy-governed resilient networked systems",
+        "pub_year": "2014",
+        "citation": "2014 IEEE 11th Consumer Communications and Networking Conference (CCNC), 56-61, 2014"
+    },
+    {
+        "title": "Evaluating the vulnerability of network traffic using joint security and routing analysis",
+        "pub_year": "2008",
+        "citation": "IEEE transactions on dependable and secure computing 6 (2), 111-123, 2008"
+    },
+    {
+        "title": "Hiding the topology of an IEEE 802.15. 4 network with limited energy",
+        "pub_year": "2021",
+        "citation": "2021 IEEE Conference on Communications and Network Security (CNS), 74-82, 2021"
+    },
+    {
+        "title": "HiveGuard: A network security monitoring architecture for Zigbee networks",
+        "pub_year": "2021",
+        "citation": "2021 IEEE Conference on Communications and Network Security (CNS), 209-217, 2021"
+    },
+    {
+        "title": "How to Jam Without Getting Caught: Analysis and Empirical Study of Stealthy Periodic Jamming",
+        "pub_year": "2013",
+        "citation": "IEEE International Conference on Sensing, Communication, and Networking (SECON), 2013"
+    },
+    {
+        "title": "I did not smoke 100 cigarettes today! avoiding false positives in real-world activity recognition",
+        "pub_year": "2015",
+        "citation": "Proceedings of the 2015 ACM International Joint Conference on Pervasive and …, 2015"
+    },
+    {
+        "title": "IVD: Automatic learning and enforcement of authorization rules in online social networks",
+        "pub_year": "2017",
+        "citation": "2017 IEEE Symposium on Security and Privacy (SP), 1094-1109, 2017"
+    },
+    {
+        "title": "Identifying, modeling, and mitigating attacks in wireless ad-hoc and sensor networks",
+        "pub_year": "2009",
+        "citation": "University of Washington, 2009"
+    },
+    {
+        "title": "IdentityLink: user-device linking through visual and RF-signal cues",
+        "pub_year": "2014",
+        "citation": "Proceedings of the 2014 ACM International Joint Conference on Pervasive and …, 2014"
+    },
+    {
+        "title": "Improving anti-jamming capability and increasing jamming impact with mobility control",
+        "pub_year": "2010",
+        "citation": "The 7th IEEE International Conference on Mobile Ad-hoc and Sensor Systems …, 2010"
+    },
+    {
+        "title": "Inter-vehicle authentication using visual contextual information",
+        "pub_year": "2017",
+        "citation": "US Patent 9,842,263, 2017"
+    },
+    {
+        "title": "Is your commute driving you crazy? A study of misbehavior in vehicular platoons",
+        "pub_year": "2015",
+        "citation": "Proceedings of the 8th ACM Conference on Security & Privacy in Wireless and …, 2015"
+    },
+    {
+        "title": "Isolation of multiple anonymous attackers in mobile networks",
+        "pub_year": "2015",
+        "citation": "International Conference on Network and System Security, 32-45, 2015"
+    },
+    {
+        "title": "JADE: Jamming-averse routing on cognitive radio mesh networks",
+        "pub_year": "2014",
+        "citation": "2014 IEEE Conference on Communications and Network Security, 21-28, 2014"
+    },
+    {
+        "title": "Jamming-aware traffic allocation for multiple-path routing using portfolio selection",
+        "pub_year": "2010",
+        "citation": "IEEE/ACM Transactions On Networking 19 (1), 184-194, 2010"
+    },
+    {
+        "title": "Jamming-resistant Distributed Path Selection on Wireless Mesh Networks",
+        "pub_year": "2012",
+        "citation": "31st IEEE Conference on Computer Communications (INFOCOM), 2012"
+    },
+    {
+        "title": "Keeping up with the jammers: Observe-and-adapt algorithms for studying mutually adaptive opponents",
+        "pub_year": "2014",
+        "citation": "Pervasive and Mobile Computing 12, 244-257, 2014"
+    },
+    {
+        "title": "Khoshgoftaar, Taghi M. 9, 83, 135, 175 Kim, Jihyeon 342 Kraft, Robin 350 Krishnan, Ram 245",
+        "citation": ""
+    },
+    {
+        "title": "LAPWiN: Location-aided probing for protecting user privacy in Wi-Fi networks",
+        "pub_year": "2014",
+        "citation": "2014 IEEE Conference on Communications and Network Security, 427-435, 2014"
+    },
+    {
+        "title": "LaNet: Real-time Lane Identification by Learning Road SurfaceCharacteristics from Accelerometer Data",
+        "pub_year": "2020",
+        "citation": "arXiv preprint arXiv:2004.02822, 2020"
+    },
+    {
+        "title": "Large-scale realistic network data generation on a budget",
+        "pub_year": "2018",
+        "citation": "2018 IEEE International Conference on Information Reuse and Integration (IRI …, 2018"
+    },
+    {
+        "title": "Lifting the smokescreen: Detecting underlying anomalies during a ddos attack",
+        "pub_year": "2018",
+        "citation": "2018 IEEE International Conference on Intelligence and Security Informatics …, 2018"
+    },
+    {
+        "title": "Linear programming models for jamming attacks on network traffic flows",
+        "pub_year": "2008",
+        "citation": "2008 6th International Symposium on Modeling and Optimization in Mobile, Ad …, 2008"
+    },
+    {
+        "title": "Living with boisterous neighbors: Studying the interaction of adaptive jamming and anti-jamming",
+        "pub_year": "2012",
+        "citation": "2012 IEEE International Symposium on a World of Wireless, Mobile and …, 2012"
+    },
+    {
+        "title": "MeshJam: Intelligent jamming attack and defense in IEEE 802.11 s wireless mesh networks",
+        "pub_year": "2013",
+        "citation": "2013 IEEE 10th International Conference on Mobile Ad-Hoc and Sensor Systems …, 2013"
+    },
+    {
+        "title": "Mimicking Human Behavior in Shared-Resource Computer Networks",
+        "pub_year": "2019",
+        "citation": "IEEE Intl Conference on Information Reuse and Integration for Data Science (IRI), 2019"
+    },
+    {
+        "title": "Mitigation of Periodic Jamming in a Spread Spectrum System by Adaptive Filter Selection",
+        "pub_year": "2012",
+        "citation": "International Conference on Pervasive and Embedded Computing and …, 2012"
+    },
+    {
+        "title": "Mitigation of control channel jamming under node capture attacks",
+        "pub_year": "2008",
+        "citation": "IEEE TRANSACTIONS ON MOBILE COMPUTING, 8 (9), 2008"
+    },
+    {
+        "title": "Mobile Pickpocketing: Exfiltration of Sensitive Data through NFC-enabled Mobile Devices",
+        "pub_year": "2013",
+        "citation": "CMU-CyLab, Carnegie Mellon University, 2013"
+    },
+    {
+        "title": "Modeling adaptive node capture attacks in multi-hop wireless networks",
+        "pub_year": "2007",
+        "citation": "Ad Hoc Networks 5 (6), 801-814, 2007"
+    },
+    {
+        "title": "Modeling node capture attacks in wireless sensor networks",
+        "pub_year": "2008",
+        "citation": "2008 46th annual allerton conference on communication, control, and …, 2008"
+    },
+    {
+        "title": "Network Self-Organization in the Internet of Things",
+        "pub_year": "2013",
+        "citation": "IEEE International Workshop on Internet-of-Things Networking and Control …, 2013"
+    },
+    {
+        "title": "Network slicing as an ad-hoc service: Opportunities and challenges in enabling user-driven resource management in 5G",
+        "pub_year": "2018",
+        "citation": "Vanderbilt University: Nashville, TN, USA, 2018"
+    },
+    {
+        "title": "Ning, Zhenyu 421 Olguín Muñoz, Manuel Osvaldo Jesús 323 Osmani, Lirim 326 Owusu, Emmanuel 378",
+        "citation": ""
+    },
+    {
+        "title": "Non-invasive user tracking via passive sensing: Privacy risks of time-series occupancy measurement",
+        "pub_year": "2014",
+        "citation": "Proceedings of the 2014 Workshop on Artificial Intelligent and Security …, 2014"
+    },
+    {
+        "title": "Oauth demystified for mobile application developers",
+        "pub_year": "2014",
+        "citation": "Proceedings of the 2014 ACM SIGSAC conference on computer and communications …, 2014"
+    },
+    {
+        "title": "On the security of thread networks: Experimentation with openthread-enabled devices",
+        "pub_year": "2022",
+        "citation": "Proceedings of the 15th ACM Conference on Security and Privacy in Wireless …, 2022"
+    },
+    {
+        "title": "Optimizing a MisInformation and MisBehavior (MIB) Attack Targeting Vehicle Platoons",
+        "pub_year": "2018",
+        "citation": "2018 IEEE 88th Vehicular Technology Conference (VTC-Fall), 1-5, 2018"
+    },
+    {
+        "title": "POSTER: Packet Conductance for Statistical Intrusion Detection in Anonymous Networks",
+        "pub_year": "2013",
+        "citation": "IEEE Symposium on Security & Privacy, 2013"
+    },
+    {
+        "title": "Payplace: A scalable sidechain protocol for flexible payment mechanisms in blockchain-based marketplaces",
+        "pub_year": "2020",
+        "citation": "arXiv preprint arXiv:2003.06197 v3, 2020"
+    },
+    {
+        "title": "Payplace: Secure and flexible operator-mediated payments in blockchain marketplaces at scale",
+        "pub_year": "2020",
+        "citation": "arXiv preprint arXiv:2003.06197, 2020"
+    },
+    {
+        "title": "Pitchln: eavesdropping via intelligible speech reconstruction using non-acoustic sensor fusion",
+        "pub_year": "2017",
+        "citation": "Proceedings of the 16th ACM/IEEE International Conference on Information …, 2017"
+    },
+    {
+        "title": "Plasma Go: A Scalable Sidechain Protocol for Flexible Payment Mechanisms in Blockchain-based Marketplaces",
+        "pub_year": "2020",
+        "citation": "arXiv preprint arXiv:2003.06197, 2020"
+    },
+    {
+        "title": "Poster: LAPWiN: Location-Aided Probing in Wi-Fi Networks",
+        "pub_year": "2013",
+        "citation": "IEEE Symposium on Security & Privacy, 2013"
+    },
+    {
+        "title": "Power napping with loud neighbors: Optimal energy-constrained jamming and anti-jamming",
+        "pub_year": "2014",
+        "citation": "Proceedings of the 2014 ACM conference on Security and privacy in wireless …, 2014"
+    },
+    {
+        "title": "Privacy partition: A privacy-preserving framework for deep neural networks in edge networks",
+        "pub_year": "2018",
+        "citation": "2018 IEEE/ACM Symposium on Edge Computing (SEC), 378-380, 2018"
+    },
+    {
+        "title": "Privacy partitioning: Protecting user data during the deep learning inference phase",
+        "pub_year": "2018",
+        "citation": "arXiv preprint arXiv:1812.02863, 2018"
+    },
+    {
+        "title": "Privatedroid: Private browsing mode for android",
+        "pub_year": "2014",
+        "citation": "2014 IEEE 13th International Conference on Trust, Security and Privacy in …, 2014"
+    },
+    {
+        "title": "Probabilistic mitigation of control channel jamming via random key distribution",
+        "pub_year": "2007",
+        "citation": "2007 IEEE 18th International Symposium on Personal, Indoor and Mobile Radio …, 2007"
+    },
+    {
+        "title": "Probabilistic mitigation of control channel jamming via random key distribution in wireless communications networks",
+        "pub_year": "2013",
+        "citation": "US Patent 8,391,493, 2013"
+    },
+    {
+        "title": "Procuring spontaneous session-level resource guarantees for real-time applications: An auction approach",
+        "pub_year": "2019",
+        "citation": "IEEE Journal on Selected Areas in Communications 37 (7), 1534-1548, 2019"
+    },
+    {
+        "title": "Proximity-based wireless access control through considerate jamming",
+        "pub_year": "2014",
+        "citation": "Proceedings of the ACM MobiCom workshop on Security and privacy in mobile …, 2014"
+    },
+    {
+        "title": "Quantifying the Impact of Efficient Cross-Layer Jamming Attacks via Network Traffic Flows",
+        "pub_year": "2009",
+        "citation": "Network Security Lab (NSL), University of Washington, 2009"
+    },
+    {
+        "title": "Recognizing new activities with limited training data",
+        "pub_year": "2015",
+        "citation": "Proceedings of the 2015 ACM international symposium on wearable computers, 67-74, 2015"
+    },
+    {
+        "title": "Resistance is Not Futile: Detecting DDoS Attacks without Packet Inspection",
+        "pub_year": "2013",
+        "citation": "International Workshop on Information Security Applications (WISA), 2013"
+    },
+    {
+        "title": "S-SPAN: Secure smart posters in android using NFC",
+        "pub_year": "2012",
+        "citation": "2012 IEEE International Symposium on a World of Wireless, Mobile and …, 2012"
+    },
+    {
+        "title": "STIR-ing the Wireless Medium with Self-Tuned, Inference-Based, Real-Time Jamming",
+        "pub_year": "2012",
+        "citation": "9th IEEE International Conference on Mobile Ad-hoc and Sensor Systems (MASS), 2012"
+    },
+    {
+        "title": "SafeThings 2019 Organization Organizing Committee",
+        "citation": ""
+    },
+    {
+        "title": "SafeThings 2020 Organization",
+        "citation": ""
+    },
+    {
+        "title": "Self-organization of a mesh hierarchy for smart grid monitoring in outage scenarios",
+        "pub_year": "2013",
+        "citation": "2013 IEEE PES Innovative Smart Grid Technologies Conference (ISGT), 1-6, 2013"
+    },
+    {
+        "title": "Selfish manipulation of cooperative cellular communications via channel fabrication",
+        "pub_year": "2013",
+        "citation": "Proceedings of the sixth ACM conference on Security and privacy in wireless …, 2013"
+    },
+    {
+        "title": "Sensetribute smart home occupant identification via fusion across on-object sensing devices",
+        "pub_year": "2017",
+        "citation": "Proceedings of the 4th ACM International Conference on Systems for Energy …, 2017"
+    },
+    {
+        "title": "ShortMAC: Efficient Data-Plane Fault Localization",
+        "pub_year": "2012",
+        "citation": "NDSS 2012, 2012"
+    },
+    {
+        "title": "ShortMAC: Efficient Data-Plane Fault Localization (CMU-CyLab-11-007)",
+        "pub_year": "2011",
+        "citation": "Carnegie Mellon University, 2011"
+    },
+    {
+        "title": "ShortMAC: Efficient Data-plane Fault Localization",
+        "citation": ""
+    },
+    {
+        "title": "Smart home occupant identification via sensor fusion across on-object devices",
+        "pub_year": "2018",
+        "citation": "ACM Transactions on Sensor Networks (TOSN) 14 (3-4), 1-22, 2018"
+    },
+    {
+        "title": "Stochastic Optimization of Flow-Jamming Attacks in Multichannel Wireless Networks",
+        "pub_year": "2013",
+        "citation": "IEEE International Conference on Communications (ICC), 2013"
+    },
+    {
+        "title": "Superad: Supervised activity discovery",
+        "pub_year": "2015",
+        "citation": "Adjunct Proceedings of the 2015 ACM International Joint Conference on …, 2015"
+    },
+    {
+        "title": "Supporting privacy-conscious app update decisions with user reviews",
+        "pub_year": "2015",
+        "citation": "Proceedings of the 5th Annual ACM CCS Workshop on Security and Privacy in …, 2015"
+    },
+    {
+        "title": "Survivable Smart Grid Communication: Smart-Meters Meshes to the Rescue",
+        "pub_year": "2012",
+        "citation": "International Conference on Computing, Networking and Communications (ICNC), 2012"
+    },
+    {
+        "title": "Swords and shields: a study of mobile game hacks and existing defenses",
+        "pub_year": "2016",
+        "citation": "Proceedings of the 32nd Annual Conference on Computer Security Applications …, 2016"
+    },
+    {
+        "title": "Systems and methods for accuracy and attestation of validity of data shared in a secure distributed environment",
+        "pub_year": "2021",
+        "citation": "US Patent 11,196,569, 2021"
+    },
+    {
+        "title": "Systems and methods for linking anonymized user activities while preserving strong privacy guarantees",
+        "pub_year": "2022",
+        "citation": "US Patent 11,271,718, 2022"
+    },
+    {
+        "title": "Systems and methods for preserving privacy and incentivizing third-party data sharing",
+        "pub_year": "2022",
+        "citation": "US Patent 11,296,895, 2022"
+    },
+    {
+        "title": "Systems and methods for providing personal rewards in a trustless ecosystem",
+        "pub_year": "2024",
+        "citation": "US Patent 11,966,917, 2024"
+    },
+    {
+        "title": "Throughput optimization for multipath unicast routing under probabilistic jamming",
+        "pub_year": "2008",
+        "citation": "2008 IEEE 19th International Symposium on Personal, Indoor and Mobile Radio …, 2008"
+    },
+    {
+        "title": "To accept or not to accept: The question of supplemental discount offers in mobile data plans",
+        "pub_year": "2018",
+        "citation": "IEEE INFOCOM 2018-IEEE Conference on Computer Communications, 2609-2617, 2018"
+    },
+    {
+        "title": "Towards Secure Multi-path Routing for Wireless Mobile Ad-Hoc Networks: A Cross-layer Strategy",
+        "pub_year": "2011",
+        "citation": "IEEE Conference on Sensor, Mesh and Ad Hoc Communications and Networks (SECON), 2011"
+    },
+    {
+        "title": "Towards continuous and passive authentication across mobile devices: an empirical study",
+        "pub_year": "2017",
+        "citation": "Proceedings of the 10th ACM Conference on Security and Privacy in Wireless …, 2017"
+    },
+    {
+        "title": "Tradeoffs between jamming resilience and communication efficiency in key establishment",
+        "pub_year": "2009",
+        "citation": "ACM SIGMOBILE Mobile Computing and Communications Review 13 (1), 14-25, 2009"
+    },
+    {
+        "title": "UnLocIn: Unauthorized Location Inference on Smartphones without Being Caught",
+        "pub_year": "2013",
+        "citation": "International Conference on Security and Privacy in Mobile Information and …, 2013"
+    },
+    {
+        "title": "Understanding IoT security through the data crystal ball: Where we are now and where we are going to be",
+        "pub_year": "2017",
+        "citation": "arXiv preprint arXiv:1703.09809, 2017"
+    },
+    {
+        "title": "Understanding iot security through the data crystal ball: Where we are now and where weare going to be",
+        "pub_year": "2017",
+        "citation": "Scanning Electron Microsc Meet at, 2017"
+    },
+    {
+        "title": "UniverSense IoT Device Pairing through Heterogeneous Sensing Signals",
+        "pub_year": "2018",
+        "citation": "Proceedings of the 19th International Workshop on Mobile Computing Systems …, 2018"
+    },
+    {
+        "title": "Using bluetooth low energy spoofing to dispute device details",
+        "pub_year": "2019",
+        "citation": "Proceedings of the 12th Conference on Security and Privacy in Wireless and …, 2019"
+    },
+    {
+        "title": "Vulnerability of network traffic under node capture attacks using circuit theoretic analysis",
+        "pub_year": "2008",
+        "citation": "IEEE INFOCOM 2008-The 27th Conference on Computer Communications, 161-165, 2008"
+    },
+    {
+        "title": "Wireless and Mobile Security Research and Teaching in the Post-Pandemic World",
+        "pub_year": "2022",
+        "citation": "Proceedings of the 15th ACM Conference on Security and Privacy in Wireless …, 2022"
+    },
+    {
+        "title": "Wireless mesh network simulator for studying cross-layer jamming effects",
+        "pub_year": "2013",
+        "citation": "2013 IEEE 10th International Conference on Mobile Ad-Hoc and Sensor Systems …, 2013"
+    },
+    {
+        "title": "Workshop on the Internet of Safe Things (SafeThings 2020)",
+        "citation": ""
+    },
+    {
+        "title": "XRec: Behavior-based user recognition across mobile devices",
+        "pub_year": "2017",
+        "citation": "Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous …, 2017"
+    },
+    {
+        "title": "Zigator: analyzing the security of zigbee-enabled smart homes",
+        "pub_year": "2020",
+        "citation": "Proceedings of the 13th ACM Conference on Security and Privacy in Wireless …, 2020"
+    },
+    {
+        "title": "{SmartAuth}:{User-Centered} authorization for the internet of things",
+        "pub_year": "2017",
+        "citation": "26th USENIX Security Symposium (USENIX Security 17), 361-378, 2017"
+    }
+]
