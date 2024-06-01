@@ -150,7 +150,7 @@
         "title": "Do you feel what I hear? Enabling autonomous IoT device pairing using different sensor types",
         "pub_year": "2018",
         "citation": "2018 IEEE symposium on Security and Privacy (SP), 836-852, 2018",
-        "num_citations": 133,
+        "num_citations": 140,
         "author_pub_id": "OiDWDQUAAAAJ:4OULZ7Gr8RgC"
     },
     {
@@ -164,7 +164,7 @@
         "title": "Evaluating the vulnerability of network traffic using joint security and routing analysis",
         "pub_year": "2008",
         "citation": "IEEE transactions on dependable and secure computing 6 (2), 111-123, 2008",
-        "num_citations": 51,
+        "num_citations": 52,
         "author_pub_id": "OiDWDQUAAAAJ:Tyk-4Ss8FVUC"
     },
     {
@@ -178,7 +178,7 @@
         "title": "HiveGuard: A network security monitoring architecture for Zigbee networks",
         "pub_year": "2021",
         "citation": "2021 IEEE Conference on Communications and Network Security (CNS), 209-217, 2021",
-        "num_citations": 11,
+        "num_citations": 12,
         "author_pub_id": "OiDWDQUAAAAJ:4fKUyHm3Qg0C"
     },
     {
@@ -317,7 +317,7 @@
         "title": "Living with boisterous neighbors: Studying the interaction of adaptive jamming and anti-jamming",
         "pub_year": "2012",
         "citation": "2012 IEEE International Symposium on a World of Wireless, Mobile and …, 2012",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "OiDWDQUAAAAJ:4TOpqqG69KYC"
     },
     {
@@ -400,7 +400,7 @@
         "title": "Oauth demystified for mobile application developers",
         "pub_year": "2014",
         "citation": "Proceedings of the 2014 ACM SIGSAC conference on computer and communications …, 2014",
-        "num_citations": 211,
+        "num_citations": 213,
         "author_pub_id": "OiDWDQUAAAAJ:blknAaTinKkC"
     },
     {
@@ -442,7 +442,7 @@
         "title": "Pitchln: eavesdropping via intelligible speech reconstruction using non-acoustic sensor fusion",
         "pub_year": "2017",
         "citation": "Proceedings of the 16th ACM/IEEE International Conference on Information …, 2017",
-        "num_citations": 70,
+        "num_citations": 73,
         "author_pub_id": "OiDWDQUAAAAJ:M05iB0D1s5AC"
     },
     {
@@ -470,7 +470,7 @@
         "title": "Privacy partition: A privacy-preserving framework for deep neural networks in edge networks",
         "pub_year": "2018",
         "citation": "2018 IEEE/ACM Symposium on Edge Computing (SEC), 378-380, 2018",
-        "num_citations": 28,
+        "num_citations": 29,
         "author_pub_id": "OiDWDQUAAAAJ:f2IySw72cVMC"
     },
     {
@@ -484,14 +484,14 @@
         "title": "Privatedroid: Private browsing mode for android",
         "pub_year": "2014",
         "citation": "2014 IEEE 13th International Conference on Trust, Security and Privacy in …, 2014",
-        "num_citations": 8,
+        "num_citations": 9,
         "author_pub_id": "OiDWDQUAAAAJ:M3NEmzRMIkIC"
     },
     {
         "title": "Probabilistic mitigation of control channel jamming via random key distribution",
         "pub_year": "2007",
         "citation": "2007 IEEE 18th International Symposium on Personal, Indoor and Mobile Radio …, 2007",
-        "num_citations": 68,
+        "num_citations": 69,
         "author_pub_id": "OiDWDQUAAAAJ:d1gkVwhDpl0C"
     },
     {
@@ -526,7 +526,7 @@
         "title": "Recognizing new activities with limited training data",
         "pub_year": "2015",
         "citation": "Proceedings of the 2015 ACM international symposium on wearable computers, 67-74, 2015",
-        "num_citations": 84,
+        "num_citations": 85,
         "author_pub_id": "OiDWDQUAAAAJ:ns9cj8rnVeAC"
     },
     {
@@ -642,7 +642,7 @@
         "title": "Swords and shields: a study of mobile game hacks and existing defenses",
         "pub_year": "2016",
         "citation": "Proceedings of the 32nd Annual Conference on Computer Security Applications …, 2016",
-        "num_citations": 12,
+        "num_citations": 13,
         "author_pub_id": "OiDWDQUAAAAJ:35N4QoGY0k4C"
     },
     {
@@ -712,14 +712,14 @@
         "title": "UnLocIn: Unauthorized Location Inference on Smartphones without Being Caught",
         "pub_year": "2013",
         "citation": "International Conference on Security and Privacy in Mobile Information and …, 2013",
-        "num_citations": 20,
+        "num_citations": 21,
         "author_pub_id": "OiDWDQUAAAAJ:ZeXyd9-uunAC"
     },
     {
         "title": "Understanding IoT security through the data crystal ball: Where we are now and where we are going to be",
         "pub_year": "2017",
         "citation": "arXiv preprint arXiv:1703.09809, 2017",
-        "num_citations": 76,
+        "num_citations": 78,
         "author_pub_id": "OiDWDQUAAAAJ:ldfaerwXgEUC"
     },
     {
@@ -788,14 +788,14 @@
         "title": "Zigator: analyzing the security of zigbee-enabled smart homes",
         "pub_year": "2020",
         "citation": "Proceedings of the 13th ACM Conference on Security and Privacy in Wireless …, 2020",
-        "num_citations": 32,
+        "num_citations": 33,
         "author_pub_id": "OiDWDQUAAAAJ:u9iWguZQMMsC"
     },
     {
         "title": "{SmartAuth}:{User-Centered} authorization for the internet of things",
         "pub_year": "2017",
         "citation": "26th USENIX Security Symposium (USENIX Security 17), 361-378, 2017",
-        "num_citations": 284,
+        "num_citations": 287,
         "author_pub_id": "OiDWDQUAAAAJ:SeFeTyx0c_EC"
     }
 ]
