@@ -24,7 +24,7 @@
         "title": "A game-theoretic framework for jamming attacks and mitigation in commercial aircraft wireless networks",
         "pub_year": "2009",
         "citation": "AIAA Infotech@ Aerospace Conference and AIAA Unmanned... Unlimited …, 2009",
-        "num_citations": 20,
+        "num_citations": 21,
         "author_pub_id": "OiDWDQUAAAAJ:MXK_kJrjxJIC"
     },
     {
@@ -52,7 +52,7 @@
         "title": "A5: Automated analysis of adversarial android applications",
         "pub_year": "2014",
         "citation": "Proceedings of the 4th ACM Workshop on Security and Privacy in Smartphones …, 2014",
-        "num_citations": 77,
+        "num_citations": 79,
         "author_pub_id": "OiDWDQUAAAAJ:r0BpntZqJG4C"
     },
     {
@@ -101,7 +101,7 @@
         "title": "Convoy: Physical context verification for vehicle platoon admission",
         "pub_year": "2017",
         "citation": "Proceedings of the 18th International Workshop on Mobile Computing Systems …, 2017",
-        "num_citations": 53,
+        "num_citations": 54,
         "author_pub_id": "OiDWDQUAAAAJ:2P1L_qKh6hAC"
     },
     {
@@ -143,14 +143,14 @@
         "title": "Digital filter design for jamming mitigation in 802.15. 4 communication",
         "pub_year": "2011",
         "citation": "2011 Proceedings of 20th International Conference on Computer Communications …, 2011",
-        "num_citations": 76,
+        "num_citations": 77,
         "author_pub_id": "OiDWDQUAAAAJ:WF5omc3nYNoC"
     },
     {
         "title": "Do you feel what I hear? Enabling autonomous IoT device pairing using different sensor types",
         "pub_year": "2018",
         "citation": "2018 IEEE symposium on Security and Privacy (SP), 836-852, 2018",
-        "num_citations": 141,
+        "num_citations": 143,
         "author_pub_id": "OiDWDQUAAAAJ:4OULZ7Gr8RgC"
     },
     {
@@ -178,7 +178,7 @@
         "title": "HiveGuard: A network security monitoring architecture for Zigbee networks",
         "pub_year": "2021",
         "citation": "2021 IEEE Conference on Communications and Network Security (CNS), 209-217, 2021",
-        "num_citations": 12,
+        "num_citations": 13,
         "author_pub_id": "OiDWDQUAAAAJ:4fKUyHm3Qg0C"
     },
     {
@@ -234,7 +234,7 @@
         "title": "Is your commute driving you crazy? A study of misbehavior in vehicular platoons",
         "pub_year": "2015",
         "citation": "Proceedings of the 8th ACM Conference on Security & Privacy in Wireless and …, 2015",
-        "num_citations": 89,
+        "num_citations": 91,
         "author_pub_id": "OiDWDQUAAAAJ:O3NaXMp0MMsC"
     },
     {
@@ -393,21 +393,21 @@
         "title": "Non-invasive user tracking via passive sensing: Privacy risks of time-series occupancy measurement",
         "pub_year": "2014",
         "citation": "Proceedings of the 2014 Workshop on Artificial Intelligent and Security …, 2014",
-        "num_citations": 27,
+        "num_citations": 28,
         "author_pub_id": "OiDWDQUAAAAJ:hMod-77fHWUC"
     },
     {
         "title": "Oauth demystified for mobile application developers",
         "pub_year": "2014",
         "citation": "Proceedings of the 2014 ACM SIGSAC conference on computer and communications …, 2014",
-        "num_citations": 213,
+        "num_citations": 216,
         "author_pub_id": "OiDWDQUAAAAJ:blknAaTinKkC"
     },
     {
         "title": "On the security of thread networks: Experimentation with openthread-enabled devices",
         "pub_year": "2022",
         "citation": "Proceedings of the 15th ACM Conference on Security and Privacy in Wireless …, 2022",
-        "num_citations": 12,
+        "num_citations": 13,
         "author_pub_id": "OiDWDQUAAAAJ:sSrBHYA8nusC"
     },
     {
@@ -442,14 +442,14 @@
         "title": "Pitchln: eavesdropping via intelligible speech reconstruction using non-acoustic sensor fusion",
         "pub_year": "2017",
         "citation": "Proceedings of the 16th ACM/IEEE International Conference on Information …, 2017",
-        "num_citations": 73,
+        "num_citations": 74,
         "author_pub_id": "OiDWDQUAAAAJ:M05iB0D1s5AC"
     },
     {
         "title": "Plasma Go: A Scalable Sidechain Protocol for Flexible Payment Mechanisms in Blockchain-based Marketplaces",
         "pub_year": "2020",
         "citation": "arXiv preprint arXiv:2003.06197, 2020",
-        "num_citations": 4,
+        "num_citations": 5,
         "author_pub_id": "OiDWDQUAAAAJ:nb7KW1ujOQ8C"
     },
     {
@@ -526,7 +526,7 @@
         "title": "Recognizing new activities with limited training data",
         "pub_year": "2015",
         "citation": "Proceedings of the 2015 ACM international symposium on wearable computers, 67-74, 2015",
-        "num_citations": 86,
+        "num_citations": 88,
         "author_pub_id": "OiDWDQUAAAAJ:ns9cj8rnVeAC"
     },
     {
@@ -607,7 +607,7 @@
         "title": "Smart home occupant identification via sensor fusion across on-object devices",
         "pub_year": "2018",
         "citation": "ACM Transactions on Sensor Networks (TOSN) 14 (3-4), 1-22, 2018",
-        "num_citations": 27,
+        "num_citations": 28,
         "author_pub_id": "OiDWDQUAAAAJ:cFHS6HbyZ2cC"
     },
     {
@@ -719,7 +719,7 @@
         "title": "Understanding iot security through the data crystal ball: Where we are now and where we are going to be",
         "pub_year": "2017",
         "citation": "arXiv preprint arXiv:1703.09809, 2017",
-        "num_citations": 81,
+        "num_citations": 82,
         "author_pub_id": "OiDWDQUAAAAJ:ldfaerwXgEUC"
     },
     {
@@ -788,14 +788,14 @@
         "title": "Zigator: Analyzing the security of zigbee-enabled smart homes",
         "pub_year": "2020",
         "citation": "Proceedings of the 13th ACM Conference on Security and Privacy in Wireless …, 2020",
-        "num_citations": 35,
+        "num_citations": 36,
         "author_pub_id": "OiDWDQUAAAAJ:u9iWguZQMMsC"
     },
     {
         "title": "{SmartAuth}:{User-Centered} authorization for the internet of things",
         "pub_year": "2017",
         "citation": "26th USENIX Security Symposium (USENIX Security 17), 361-378, 2017",
-        "num_citations": 292,
+        "num_citations": 296,
         "author_pub_id": "OiDWDQUAAAAJ:SeFeTyx0c_EC"
     }
 ]
