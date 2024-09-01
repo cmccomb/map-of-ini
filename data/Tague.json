@@ -129,7 +129,7 @@
         "title": "Designing for self-configuration and self-adaptation in the Internet of Things",
         "pub_year": "2013",
         "citation": "9th IEEE International Conference on Collaborative Computing: Networking …, 2013",
-        "num_citations": 64,
+        "num_citations": 65,
         "author_pub_id": "OiDWDQUAAAAJ:HDshCWvjkbEC"
     },
     {
@@ -150,7 +150,7 @@
         "title": "Do you feel what I hear? Enabling autonomous IoT device pairing using different sensor types",
         "pub_year": "2018",
         "citation": "2018 IEEE symposium on Security and Privacy (SP), 836-852, 2018",
-        "num_citations": 143,
+        "num_citations": 144,
         "author_pub_id": "OiDWDQUAAAAJ:4OULZ7Gr8RgC"
     },
     {
@@ -192,7 +192,7 @@
         "title": "I did not smoke 100 cigarettes today! avoiding false positives in real-world activity recognition",
         "pub_year": "2015",
         "citation": "Proceedings of the 2015 ACM International Joint Conference on Pervasive and …, 2015",
-        "num_citations": 31,
+        "num_citations": 32,
         "author_pub_id": "OiDWDQUAAAAJ:RGFaLdJalmkC"
     },
     {
@@ -213,7 +213,7 @@
         "title": "IdentityLink: user-device linking through visual and RF-signal cues",
         "pub_year": "2014",
         "citation": "Proceedings of the 2014 ACM International Joint Conference on Pervasive and …, 2014",
-        "num_citations": 40,
+        "num_citations": 41,
         "author_pub_id": "OiDWDQUAAAAJ:k_IJM867U9cC"
     },
     {
@@ -234,7 +234,7 @@
         "title": "Is your commute driving you crazy? A study of misbehavior in vehicular platoons",
         "pub_year": "2015",
         "citation": "Proceedings of the 8th ACM Conference on Security & Privacy in Wireless and …, 2015",
-        "num_citations": 91,
+        "num_citations": 94,
         "author_pub_id": "OiDWDQUAAAAJ:O3NaXMp0MMsC"
     },
     {
@@ -310,7 +310,7 @@
         "title": "Linear programming models for jamming attacks on network traffic flows",
         "pub_year": "2008",
         "citation": "2008 6th International Symposium on Modeling and Optimization in Mobile, Ad …, 2008",
-        "num_citations": 80,
+        "num_citations": 81,
         "author_pub_id": "OiDWDQUAAAAJ:2osOgNQ5qMEC"
     },
     {
@@ -345,7 +345,7 @@
         "title": "Mitigation of control channel jamming under node capture attacks",
         "pub_year": "2008",
         "citation": "IEEE TRANSACTIONS ON MOBILE COMPUTING, 8 (9), 2008",
-        "num_citations": 144,
+        "num_citations": 145,
         "author_pub_id": "OiDWDQUAAAAJ:u5HHmVD_uO8C"
     },
     {
@@ -366,14 +366,14 @@
         "title": "Modeling node capture attacks in wireless sensor networks",
         "pub_year": "2008",
         "citation": "2008 46th annual allerton conference on communication, control, and …, 2008",
-        "num_citations": 86,
+        "num_citations": 87,
         "author_pub_id": "OiDWDQUAAAAJ:UeHWp8X0CEIC"
     },
     {
         "title": "Network Self-Organization in the Internet of Things",
         "pub_year": "2013",
         "citation": "IEEE International Workshop on Internet-of-Things Networking and Control …, 2013",
-        "num_citations": 107,
+        "num_citations": 109,
         "author_pub_id": "OiDWDQUAAAAJ:IWHjjKOFINEC"
     },
     {
@@ -400,7 +400,7 @@
         "title": "Oauth demystified for mobile application developers",
         "pub_year": "2014",
         "citation": "Proceedings of the 2014 ACM SIGSAC conference on computer and communications …, 2014",
-        "num_citations": 216,
+        "num_citations": 219,
         "author_pub_id": "OiDWDQUAAAAJ:blknAaTinKkC"
     },
     {
@@ -414,7 +414,7 @@
         "title": "Optimizing a MisInformation and MisBehavior (MIB) Attack Targeting Vehicle Platoons",
         "pub_year": "2018",
         "citation": "2018 IEEE 88th Vehicular Technology Conference (VTC-Fall), 1-5, 2018",
-        "num_citations": 4,
+        "num_citations": 5,
         "author_pub_id": "OiDWDQUAAAAJ:abG-DnoFyZgC"
     },
     {
@@ -442,7 +442,7 @@
         "title": "Pitchln: eavesdropping via intelligible speech reconstruction using non-acoustic sensor fusion",
         "pub_year": "2017",
         "citation": "Proceedings of the 16th ACM/IEEE International Conference on Information …, 2017",
-        "num_citations": 74,
+        "num_citations": 75,
         "author_pub_id": "OiDWDQUAAAAJ:M05iB0D1s5AC"
     },
     {
@@ -607,14 +607,14 @@
         "title": "Smart home occupant identification via sensor fusion across on-object devices",
         "pub_year": "2018",
         "citation": "ACM Transactions on Sensor Networks (TOSN) 14 (3-4), 1-22, 2018",
-        "num_citations": 28,
+        "num_citations": 29,
         "author_pub_id": "OiDWDQUAAAAJ:cFHS6HbyZ2cC"
     },
     {
         "title": "Stochastic Optimization of Flow-Jamming Attacks in Multichannel Wireless Networks",
         "pub_year": "2013",
         "citation": "IEEE International Conference on Communications (ICC), 2013",
-        "num_citations": 10,
+        "num_citations": 11,
         "author_pub_id": "OiDWDQUAAAAJ:L8Ckcad2t8MC"
     },
     {
@@ -628,7 +628,7 @@
         "title": "Supporting privacy-conscious app update decisions with user reviews",
         "pub_year": "2015",
         "citation": "Proceedings of the 5th Annual ACM CCS Workshop on Security and Privacy in …, 2015",
-        "num_citations": 44,
+        "num_citations": 46,
         "author_pub_id": "OiDWDQUAAAAJ:J_g5lzvAfSwC"
     },
     {
@@ -642,7 +642,7 @@
         "title": "Swords and shields: a study of mobile game hacks and existing defenses",
         "pub_year": "2016",
         "citation": "Proceedings of the 32nd Annual Conference on Computer Security Applications …, 2016",
-        "num_citations": 13,
+        "num_citations": 14,
         "author_pub_id": "OiDWDQUAAAAJ:35N4QoGY0k4C"
     },
     {
@@ -712,7 +712,7 @@
         "title": "UnLocIn: Unauthorized Location Inference on Smartphones without Being Caught",
         "pub_year": "2013",
         "citation": "International Conference on Security and Privacy in Mobile Information and …, 2013",
-        "num_citations": 20,
+        "num_citations": 21,
         "author_pub_id": "OiDWDQUAAAAJ:ZeXyd9-uunAC"
     },
     {
@@ -733,7 +733,7 @@
         "title": "UniverSense IoT Device Pairing through Heterogeneous Sensing Signals",
         "pub_year": "2018",
         "citation": "Proceedings of the 19th International Workshop on Mobile Computing Systems …, 2018",
-        "num_citations": 37,
+        "num_citations": 38,
         "author_pub_id": "OiDWDQUAAAAJ:fPk4N6BV_jEC"
     },
     {
@@ -795,7 +795,7 @@
         "title": "{SmartAuth}:{User-Centered} authorization for the internet of things",
         "pub_year": "2017",
         "citation": "26th USENIX Security Symposium (USENIX Security 17), 361-378, 2017",
-        "num_citations": 296,
+        "num_citations": 304,
         "author_pub_id": "OiDWDQUAAAAJ:SeFeTyx0c_EC"
     }
 ]
