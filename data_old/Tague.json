@@ -73,7 +73,7 @@
         "title": "All your screens are belong to us: attacks exploiting the html5 screen sharing api",
         "pub_year": "2014",
         "citation": "2014 IEEE Symposium on Security and Privacy, 34-48, 2014",
-        "num_citations": 20,
+        "num_citations": 22,
         "author_pub_id": "OiDWDQUAAAAJ:j3f4tGmQtD8C"
     },
     {
@@ -101,7 +101,7 @@
         "title": "Convoy: Physical context verification for vehicle platoon admission",
         "pub_year": "2017",
         "citation": "Proceedings of the 18th International Workshop on Mobile Computing Systems …, 2017",
-        "num_citations": 54,
+        "num_citations": 55,
         "author_pub_id": "OiDWDQUAAAAJ:2P1L_qKh6hAC"
     },
     {
@@ -115,7 +115,7 @@
         "title": "DDoS-as-a-smokescreen: Leveraging NetFlow concurrency and segmentation for faster detection",
         "pub_year": "2021",
         "citation": "2021 Third IEEE International Conference on Trust, Privacy and Security in …, 2021",
-        "num_citations": 4,
+        "num_citations": 5,
         "author_pub_id": "OiDWDQUAAAAJ:B3FOqHPlNUQC"
     },
     {
@@ -129,7 +129,7 @@
         "title": "Designing for self-configuration and self-adaptation in the Internet of Things",
         "pub_year": "2013",
         "citation": "9th IEEE International Conference on Collaborative Computing: Networking …, 2013",
-        "num_citations": 65,
+        "num_citations": 67,
         "author_pub_id": "OiDWDQUAAAAJ:HDshCWvjkbEC"
     },
     {
@@ -150,7 +150,7 @@
         "title": "Do you feel what I hear? Enabling autonomous IoT device pairing using different sensor types",
         "pub_year": "2018",
         "citation": "2018 IEEE symposium on Security and Privacy (SP), 836-852, 2018",
-        "num_citations": 144,
+        "num_citations": 145,
         "author_pub_id": "OiDWDQUAAAAJ:4OULZ7Gr8RgC"
     },
     {
@@ -400,7 +400,7 @@
         "title": "Oauth demystified for mobile application developers",
         "pub_year": "2014",
         "citation": "Proceedings of the 2014 ACM SIGSAC conference on computer and communications …, 2014",
-        "num_citations": 219,
+        "num_citations": 220,
         "author_pub_id": "OiDWDQUAAAAJ:blknAaTinKkC"
     },
     {
@@ -442,7 +442,7 @@
         "title": "Pitchln: eavesdropping via intelligible speech reconstruction using non-acoustic sensor fusion",
         "pub_year": "2017",
         "citation": "Proceedings of the 16th ACM/IEEE International Conference on Information …, 2017",
-        "num_citations": 75,
+        "num_citations": 78,
         "author_pub_id": "OiDWDQUAAAAJ:M05iB0D1s5AC"
     },
     {
@@ -649,7 +649,7 @@
         "title": "Systems and methods for accuracy and attestation of validity of data shared in a secure distributed environment",
         "pub_year": "2021",
         "citation": "US Patent 11,196,569, 2021",
-        "num_citations": 22,
+        "num_citations": 23,
         "author_pub_id": "OiDWDQUAAAAJ:dshw04ExmUIC"
     },
     {
@@ -698,7 +698,7 @@
         "title": "Towards continuous and passive authentication across mobile devices: an empirical study",
         "pub_year": "2017",
         "citation": "Proceedings of the 10th ACM Conference on Security and Privacy in Wireless …, 2017",
-        "num_citations": 31,
+        "num_citations": 32,
         "author_pub_id": "OiDWDQUAAAAJ:3s1wT3WcHBgC"
     },
     {
@@ -733,14 +733,14 @@
         "title": "UniverSense IoT Device Pairing through Heterogeneous Sensing Signals",
         "pub_year": "2018",
         "citation": "Proceedings of the 19th International Workshop on Mobile Computing Systems …, 2018",
-        "num_citations": 38,
+        "num_citations": 39,
         "author_pub_id": "OiDWDQUAAAAJ:fPk4N6BV_jEC"
     },
     {
         "title": "Using bluetooth low energy spoofing to dispute device details",
         "pub_year": "2019",
         "citation": "Proceedings of the 12th Conference on Security and Privacy in Wireless and …, 2019",
-        "num_citations": 3,
+        "num_citations": 4,
         "author_pub_id": "OiDWDQUAAAAJ:NhqRSupF_l8C"
     },
     {
@@ -788,14 +788,14 @@
         "title": "Zigator: Analyzing the security of zigbee-enabled smart homes",
         "pub_year": "2020",
         "citation": "Proceedings of the 13th ACM Conference on Security and Privacy in Wireless …, 2020",
-        "num_citations": 36,
+        "num_citations": 37,
         "author_pub_id": "OiDWDQUAAAAJ:u9iWguZQMMsC"
     },
     {
         "title": "{SmartAuth}:{User-Centered} authorization for the internet of things",
         "pub_year": "2017",
         "citation": "26th USENIX Security Symposium (USENIX Security 17), 361-378, 2017",
-        "num_citations": 304,
+        "num_citations": 307,
         "author_pub_id": "OiDWDQUAAAAJ:SeFeTyx0c_EC"
     }
 ]

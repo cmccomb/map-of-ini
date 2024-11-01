@@ -1,8 +1,8 @@
 [
     {
-        "title": "A Collaborative Enforcement Mechanism for Spectrum Sharing Using Blockchain and Smart Contracts: An Application for the 1695-1710MHz Band",
+        "title": "A Collaborative Enforcement Mechanism for Spectrum Sharing Using Blockchain and Smart Contracts: An application for the 1695-1710MHz band",
         "pub_year": "2019",
-        "citation": "TPRC47: The 47th Research Conference on Communication, Information and …, 2019",
+        "citation": "Telecommunications Policy Research Conference, 2019",
         "num_citations": 1,
         "author_pub_id": "RH_0tmMAAAAJ:hqOjcs7Dif8C"
     },
@@ -52,7 +52,7 @@
         "title": "Crowdsourced misuse detection in dynamic spectrum sharing wireless networks",
         "pub_year": "2019",
         "citation": "ICN... the... International Conference on Networks, 2019",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "RH_0tmMAAAAJ:Tyk-4Ss8FVUC"
     },
     {
@@ -87,7 +87,7 @@
         "title": "Government by code? Blockchain applications to public sector governance",
         "pub_year": "2022",
         "citation": "Frontiers in Blockchain 5, 869665, 2022",
-        "num_citations": 17,
+        "num_citations": 19,
         "author_pub_id": "RH_0tmMAAAAJ:qjMakFHDy7sC"
     },
     {
@@ -107,7 +107,7 @@
     {
         "title": "Market Disputes| Legal, Social, and Long-Term Implications for an Evolving Spectrum Market",
         "pub_year": "2019",
-        "citation": "TPRC47: The 47th Research Conference on Communication, Information and …, 2019",
+        "citation": "Telecommunications Policy Research Conference, 2019",
         "num_citations": 1,
         "author_pub_id": "RH_0tmMAAAAJ:W7OEmFMy1HYC"
     },
@@ -115,14 +115,14 @@
         "title": "Matchmaking of volunteers and channels for dynamic spectrum access enforcement",
         "pub_year": "2020",
         "citation": "GLOBECOM 2020-2020 IEEE Global Communications Conference, 1-6, 2020",
-        "num_citations": 2,
+        "num_citations": 3,
         "author_pub_id": "RH_0tmMAAAAJ:_FxGoFyzp5QC"
     },
     {
         "title": "Misuse detection in dynamic spectrum sharing wireless networks across multiple channels",
         "pub_year": "2019",
         "citation": "International Journal on Advances in Networks and Services Volume 12, Number …, 2019",
-        "num_citations": 4,
+        "num_citations": 5,
         "author_pub_id": "RH_0tmMAAAAJ:u5HHmVD_uO8C"
     },
     {
@@ -133,9 +133,9 @@
         "author_pub_id": "RH_0tmMAAAAJ:2osOgNQ5qMEC"
     },
     {
-        "title": "On the Governance of Federated Platforms",
+        "title": "On the governance of federated platforms",
         "pub_year": "2023",
-        "citation": "Available at SSRN 4528712, 2023",
+        "citation": "SSRN Electronic Journal, 2023",
         "num_citations": 2,
         "author_pub_id": "RH_0tmMAAAAJ:5nxA0vEk-isC"
     },
@@ -160,13 +160,6 @@
         "author_pub_id": "RH_0tmMAAAAJ:kNdYIx-mwKoC"
     },
     {
-        "title": "Spectrum Rights in Outer Space: Interference Management for Mega-constellations",
-        "pub_year": "2022",
-        "citation": "Available at SSRN 4178793, 2022",
-        "num_citations": 6,
-        "author_pub_id": "RH_0tmMAAAAJ:LkGwnXOMwfcC"
-    },
-    {
         "title": "Spectrum anarchy: why self-governance of the radio spectrum works better than we think",
         "pub_year": "2020",
         "citation": "Journal of Institutional Economics 16 (6), 863-882, 2020",
@@ -177,20 +170,27 @@
         "title": "Spectrum misuse detection in cooperative wireless networks",
         "pub_year": "2020",
         "citation": "2020 IEEE 17th Annual Consumer Communications & Networking Conference (CCNC …, 2020",
-        "num_citations": 4,
+        "num_citations": 5,
         "author_pub_id": "RH_0tmMAAAAJ:d1gkVwhDpl0C"
+    },
+    {
+        "title": "Spectrum rights in outer space: Interference management for mega-constellations",
+        "pub_year": "2022",
+        "citation": "SSRN Electronic Journal, 2022",
+        "num_citations": 6,
+        "author_pub_id": "RH_0tmMAAAAJ:LkGwnXOMwfcC"
     },
     {
         "title": "Toward Automated Enforcement of Radio Interference",
         "pub_year": "2020",
         "citation": "TPRC48: The 48th Research Conference on Communication, Information and …, 2020",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "RH_0tmMAAAAJ:0EnyYjriUFMC"
     },
     {
         "title": "Unassigned Spectrum: An Institutional Analysis of Radio Spectrum Management",
         "pub_year": "2023",
-        "citation": "Available at SSRN 4528676, 2023",
+        "citation": "SSRN Electronic Journal, 2023",
         "num_citations": 1,
         "author_pub_id": "RH_0tmMAAAAJ:MXK_kJrjxJIC"
     }

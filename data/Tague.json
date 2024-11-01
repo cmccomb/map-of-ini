@@ -52,7 +52,7 @@
         "title": "A5: Automated analysis of adversarial android applications",
         "pub_year": "2014",
         "citation": "Proceedings of the 4th ACM Workshop on Security and Privacy in Smartphones …, 2014",
-        "num_citations": 79,
+        "num_citations": 78,
         "author_pub_id": "OiDWDQUAAAAJ:r0BpntZqJG4C"
     },
     {
@@ -66,7 +66,7 @@
         "title": "All your jammers belong to us—Localization of wireless sensors under jamming attack",
         "pub_year": "2012",
         "citation": "2012 IEEE International Conference on Communications (ICC), 949-954, 2012",
-        "num_citations": 37,
+        "num_citations": 38,
         "author_pub_id": "OiDWDQUAAAAJ:YOwf2qJgpHMC"
     },
     {
@@ -143,7 +143,7 @@
         "title": "Digital filter design for jamming mitigation in 802.15. 4 communication",
         "pub_year": "2011",
         "citation": "2011 Proceedings of 20th International Conference on Computer Communications …, 2011",
-        "num_citations": 77,
+        "num_citations": 78,
         "author_pub_id": "OiDWDQUAAAAJ:WF5omc3nYNoC"
     },
     {
@@ -234,7 +234,7 @@
         "title": "Is your commute driving you crazy? A study of misbehavior in vehicular platoons",
         "pub_year": "2015",
         "citation": "Proceedings of the 8th ACM Conference on Security & Privacy in Wireless and …, 2015",
-        "num_citations": 94,
+        "num_citations": 93,
         "author_pub_id": "OiDWDQUAAAAJ:O3NaXMp0MMsC"
     },
     {
@@ -310,7 +310,7 @@
         "title": "Linear programming models for jamming attacks on network traffic flows",
         "pub_year": "2008",
         "citation": "2008 6th International Symposium on Modeling and Optimization in Mobile, Ad …, 2008",
-        "num_citations": 81,
+        "num_citations": 82,
         "author_pub_id": "OiDWDQUAAAAJ:2osOgNQ5qMEC"
     },
     {
@@ -366,7 +366,7 @@
         "title": "Modeling node capture attacks in wireless sensor networks",
         "pub_year": "2008",
         "citation": "2008 46th annual allerton conference on communication, control, and …, 2008",
-        "num_citations": 87,
+        "num_citations": 88,
         "author_pub_id": "OiDWDQUAAAAJ:UeHWp8X0CEIC"
     },
     {
@@ -393,7 +393,7 @@
         "title": "Non-invasive user tracking via passive sensing: Privacy risks of time-series occupancy measurement",
         "pub_year": "2014",
         "citation": "Proceedings of the 2014 Workshop on Artificial Intelligent and Security …, 2014",
-        "num_citations": 28,
+        "num_citations": 29,
         "author_pub_id": "OiDWDQUAAAAJ:hMod-77fHWUC"
     },
     {
@@ -407,7 +407,7 @@
         "title": "On the security of thread networks: Experimentation with openthread-enabled devices",
         "pub_year": "2022",
         "citation": "Proceedings of the 15th ACM Conference on Security and Privacy in Wireless …, 2022",
-        "num_citations": 13,
+        "num_citations": 15,
         "author_pub_id": "OiDWDQUAAAAJ:sSrBHYA8nusC"
     },
     {
@@ -442,7 +442,7 @@
         "title": "Pitchln: eavesdropping via intelligible speech reconstruction using non-acoustic sensor fusion",
         "pub_year": "2017",
         "citation": "Proceedings of the 16th ACM/IEEE International Conference on Information …, 2017",
-        "num_citations": 78,
+        "num_citations": 79,
         "author_pub_id": "OiDWDQUAAAAJ:M05iB0D1s5AC"
     },
     {
@@ -649,7 +649,7 @@
         "title": "Systems and methods for accuracy and attestation of validity of data shared in a secure distributed environment",
         "pub_year": "2021",
         "citation": "US Patent 11,196,569, 2021",
-        "num_citations": 23,
+        "num_citations": 22,
         "author_pub_id": "OiDWDQUAAAAJ:dshw04ExmUIC"
     },
     {
@@ -719,7 +719,7 @@
         "title": "Understanding iot security through the data crystal ball: Where we are now and where we are going to be",
         "pub_year": "2017",
         "citation": "arXiv preprint arXiv:1703.09809, 2017",
-        "num_citations": 82,
+        "num_citations": 83,
         "author_pub_id": "OiDWDQUAAAAJ:ldfaerwXgEUC"
     },
     {
@@ -795,7 +795,7 @@
         "title": "{SmartAuth}:{User-Centered} authorization for the internet of things",
         "pub_year": "2017",
         "citation": "26th USENIX Security Symposium (USENIX Security 17), 361-378, 2017",
-        "num_citations": 307,
+        "num_citations": 312,
         "author_pub_id": "OiDWDQUAAAAJ:SeFeTyx0c_EC"
     }
 ]
