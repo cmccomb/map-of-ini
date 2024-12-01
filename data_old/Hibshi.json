@@ -3,35 +3,35 @@
         "title": "\" Against the Void\": An Interview and Survey Study on How Rust Developers Use Unsafe Code",
         "pub_year": "2024",
         "citation": "arXiv preprint arXiv:2404.02230, 2024",
-        "num_citations": 1,
+        "num_citations": 2,
         "author_pub_id": "6p23pUgAAAAJ:cB__R-XWw9UC"
     },
     {
         "title": "A Grounded Analysis of Experts' Decision-Making during Security Assessments",
         "pub_year": "2016",
         "citation": "Journal of Cybersecurity, 2016",
-        "num_citations": 22,
+        "num_citations": 23,
         "author_pub_id": "6p23pUgAAAAJ:inmFHauC9wsC"
     },
     {
         "title": "A systemic approach for natural language scenario elicitation of security requirements",
         "pub_year": "2021",
         "citation": "IEEE Transactions on Dependable and Secure Computing 19 (6), 3579-3591, 2021",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "6p23pUgAAAAJ:T8_be82Iz5gC"
     },
     {
         "title": "Ask the experts: What should be on an IoT privacy and security label?",
         "pub_year": "2020",
         "citation": "2020 IEEE Symposium on Security and Privacy (SP), 447-464, 2020",
-        "num_citations": 230,
+        "num_citations": 233,
         "author_pub_id": "6p23pUgAAAAJ:wuD5JclIwkYC"
     },
     {
         "title": "Assessment of Risk Perception in Security Requirements Composition",
         "pub_year": "2015",
         "citation": "2015 IEEE 23rd International Requirements Engineering Conference (RE), 146-155, 2015",
-        "num_citations": 25,
+        "num_citations": 26,
         "author_pub_id": "6p23pUgAAAAJ:q1zXlPLtbUIC"
     },
     {
@@ -66,7 +66,7 @@
         "title": "Eddy, a formal language for specifying and analyzing data flow specifications for conflicting privacy requirements",
         "pub_year": "2014",
         "citation": "Requirements Engineering 19, 281-307, 2014",
-        "num_citations": 126,
+        "num_citations": 127,
         "author_pub_id": "6p23pUgAAAAJ:j5aT6aphRxQC"
     },
     {
