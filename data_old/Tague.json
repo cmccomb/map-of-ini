@@ -52,7 +52,7 @@
         "title": "A5: Automated analysis of adversarial android applications",
         "pub_year": "2014",
         "citation": "Proceedings of the 4th ACM Workshop on Security and Privacy in Smartphones …, 2014",
-        "num_citations": 78,
+        "num_citations": 79,
         "author_pub_id": "OiDWDQUAAAAJ:r0BpntZqJG4C"
     },
     {
@@ -150,7 +150,7 @@
         "title": "Do you feel what I hear? Enabling autonomous IoT device pairing using different sensor types",
         "pub_year": "2018",
         "citation": "2018 IEEE symposium on Security and Privacy (SP), 836-852, 2018",
-        "num_citations": 145,
+        "num_citations": 148,
         "author_pub_id": "OiDWDQUAAAAJ:4OULZ7Gr8RgC"
     },
     {
@@ -192,14 +192,14 @@
         "title": "I did not smoke 100 cigarettes today! avoiding false positives in real-world activity recognition",
         "pub_year": "2015",
         "citation": "Proceedings of the 2015 ACM International Joint Conference on Pervasive and …, 2015",
-        "num_citations": 32,
+        "num_citations": 33,
         "author_pub_id": "OiDWDQUAAAAJ:RGFaLdJalmkC"
     },
     {
         "title": "IVD: Automatic learning and enforcement of authorization rules in online social networks",
         "pub_year": "2017",
         "citation": "2017 IEEE Symposium on Security and Privacy (SP), 1094-1109, 2017",
-        "num_citations": 19,
+        "num_citations": 20,
         "author_pub_id": "OiDWDQUAAAAJ:pqnbT2bcN3wC"
     },
     {
@@ -255,7 +255,7 @@
         "title": "Jamming-aware traffic allocation for multiple-path routing using portfolio selection",
         "pub_year": "2010",
         "citation": "IEEE/ACM Transactions On Networking 19 (1), 184-194, 2010",
-        "num_citations": 72,
+        "num_citations": 73,
         "author_pub_id": "OiDWDQUAAAAJ:qxL8FJ1GzNcC"
     },
     {
@@ -345,7 +345,7 @@
         "title": "Mitigation of control channel jamming under node capture attacks",
         "pub_year": "2008",
         "citation": "IEEE TRANSACTIONS ON MOBILE COMPUTING, 8 (9), 2008",
-        "num_citations": 145,
+        "num_citations": 146,
         "author_pub_id": "OiDWDQUAAAAJ:u5HHmVD_uO8C"
     },
     {
@@ -373,7 +373,7 @@
         "title": "Network Self-Organization in the Internet of Things",
         "pub_year": "2013",
         "citation": "IEEE International Workshop on Internet-of-Things Networking and Control …, 2013",
-        "num_citations": 109,
+        "num_citations": 110,
         "author_pub_id": "OiDWDQUAAAAJ:IWHjjKOFINEC"
     },
     {
@@ -435,14 +435,14 @@
         "title": "Payplace: Secure and flexible operator-mediated payments in blockchain marketplaces at scale",
         "pub_year": "2020",
         "citation": "arXiv preprint arXiv:2003.06197, 2020",
-        "num_citations": 2,
+        "num_citations": 3,
         "author_pub_id": "OiDWDQUAAAAJ:WbkHhVStYXYC"
     },
     {
         "title": "Pitchln: eavesdropping via intelligible speech reconstruction using non-acoustic sensor fusion",
         "pub_year": "2017",
         "citation": "Proceedings of the 16th ACM/IEEE International Conference on Information …, 2017",
-        "num_citations": 79,
+        "num_citations": 82,
         "author_pub_id": "OiDWDQUAAAAJ:M05iB0D1s5AC"
     },
     {
@@ -463,14 +463,14 @@
         "title": "Power napping with loud neighbors: optimal energy-constrained jamming and anti-jamming",
         "pub_year": "2014",
         "citation": "Proceedings of the 2014 ACM conference on Security and privacy in wireless …, 2014",
-        "num_citations": 27,
+        "num_citations": 28,
         "author_pub_id": "OiDWDQUAAAAJ:iH-uZ7U-co4C"
     },
     {
         "title": "Privacy partition: A privacy-preserving framework for deep neural networks in edge networks",
         "pub_year": "2018",
         "citation": "2018 IEEE/ACM Symposium on Edge Computing (SEC), 378-380, 2018",
-        "num_citations": 30,
+        "num_citations": 31,
         "author_pub_id": "OiDWDQUAAAAJ:f2IySw72cVMC"
     },
     {
@@ -526,7 +526,7 @@
         "title": "Recognizing new activities with limited training data",
         "pub_year": "2015",
         "citation": "Proceedings of the 2015 ACM international symposium on wearable computers, 67-74, 2015",
-        "num_citations": 88,
+        "num_citations": 89,
         "author_pub_id": "OiDWDQUAAAAJ:ns9cj8rnVeAC"
     },
     {
@@ -580,7 +580,7 @@
         "title": "Sensetribute smart home occupant identification via fusion across on-object sensing devices",
         "pub_year": "2017",
         "citation": "Proceedings of the 4th ACM International Conference on Systems for Energy …, 2017",
-        "num_citations": 16,
+        "num_citations": 17,
         "author_pub_id": "OiDWDQUAAAAJ:u_35RYKgDlwC"
     },
     {
@@ -607,7 +607,7 @@
         "title": "Smart home occupant identification via sensor fusion across on-object devices",
         "pub_year": "2018",
         "citation": "ACM Transactions on Sensor Networks (TOSN) 14 (3-4), 1-22, 2018",
-        "num_citations": 29,
+        "num_citations": 30,
         "author_pub_id": "OiDWDQUAAAAJ:cFHS6HbyZ2cC"
     },
     {
@@ -628,7 +628,7 @@
         "title": "Supporting privacy-conscious app update decisions with user reviews",
         "pub_year": "2015",
         "citation": "Proceedings of the 5th Annual ACM CCS Workshop on Security and Privacy in …, 2015",
-        "num_citations": 46,
+        "num_citations": 47,
         "author_pub_id": "OiDWDQUAAAAJ:J_g5lzvAfSwC"
     },
     {
@@ -642,7 +642,7 @@
         "title": "Swords and shields: a study of mobile game hacks and existing defenses",
         "pub_year": "2016",
         "citation": "Proceedings of the 32nd Annual Conference on Computer Security Applications …, 2016",
-        "num_citations": 14,
+        "num_citations": 15,
         "author_pub_id": "OiDWDQUAAAAJ:35N4QoGY0k4C"
     },
     {
@@ -733,7 +733,7 @@
         "title": "UniverSense IoT Device Pairing through Heterogeneous Sensing Signals",
         "pub_year": "2018",
         "citation": "Proceedings of the 19th International Workshop on Mobile Computing Systems …, 2018",
-        "num_citations": 39,
+        "num_citations": 40,
         "author_pub_id": "OiDWDQUAAAAJ:fPk4N6BV_jEC"
     },
     {
@@ -795,7 +795,7 @@
         "title": "{SmartAuth}:{User-Centered} authorization for the internet of things",
         "pub_year": "2017",
         "citation": "26th USENIX Security Symposium (USENIX Security 17), 361-378, 2017",
-        "num_citations": 312,
+        "num_citations": 315,
         "author_pub_id": "OiDWDQUAAAAJ:SeFeTyx0c_EC"
     }
 ]
