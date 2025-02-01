@@ -101,7 +101,7 @@
         "title": "Convoy: Physical context verification for vehicle platoon admission",
         "pub_year": "2017",
         "citation": "Proceedings of the 18th International Workshop on Mobile Computing Systems …, 2017",
-        "num_citations": 56,
+        "num_citations": 57,
         "author_pub_id": "OiDWDQUAAAAJ:2P1L_qKh6hAC"
     },
     {
@@ -143,7 +143,7 @@
         "title": "Digital filter design for jamming mitigation in 802.15. 4 communication",
         "pub_year": "2011",
         "citation": "2011 Proceedings of 20th International Conference on Computer Communications …, 2011",
-        "num_citations": 78,
+        "num_citations": 79,
         "author_pub_id": "OiDWDQUAAAAJ:WF5omc3nYNoC"
     },
     {
@@ -185,7 +185,7 @@
         "title": "How to Jam Without Getting Caught: Analysis and Empirical Study of Stealthy Periodic Jamming",
         "pub_year": "2013",
         "citation": "IEEE International Conference on Sensing, Communication, and Networking (SECON), 2013",
-        "num_citations": 17,
+        "num_citations": 18,
         "author_pub_id": "OiDWDQUAAAAJ:qUcmZB5y_30C"
     },
     {
@@ -345,7 +345,7 @@
         "title": "Mitigation of control channel jamming under node capture attacks",
         "pub_year": "2008",
         "citation": "IEEE TRANSACTIONS ON MOBILE COMPUTING, 8 (9), 2008",
-        "num_citations": 146,
+        "num_citations": 147,
         "author_pub_id": "OiDWDQUAAAAJ:u5HHmVD_uO8C"
     },
     {
@@ -400,7 +400,7 @@
         "title": "Oauth demystified for mobile application developers",
         "pub_year": "2014",
         "citation": "Proceedings of the 2014 ACM SIGSAC conference on computer and communications …, 2014",
-        "num_citations": 220,
+        "num_citations": 223,
         "author_pub_id": "OiDWDQUAAAAJ:blknAaTinKkC"
     },
     {
@@ -463,7 +463,7 @@
         "title": "Power napping with loud neighbors: optimal energy-constrained jamming and anti-jamming",
         "pub_year": "2014",
         "citation": "Proceedings of the 2014 ACM conference on Security and privacy in wireless …, 2014",
-        "num_citations": 28,
+        "num_citations": 29,
         "author_pub_id": "OiDWDQUAAAAJ:iH-uZ7U-co4C"
     },
     {
@@ -477,7 +477,7 @@
         "title": "Privacy partitioning: Protecting user data during the deep learning inference phase",
         "pub_year": "2018",
         "citation": "arXiv preprint arXiv:1812.02863, 2018",
-        "num_citations": 33,
+        "num_citations": 34,
         "author_pub_id": "OiDWDQUAAAAJ:pyW8ca7W8N0C"
     },
     {
@@ -505,7 +505,7 @@
         "title": "Procuring spontaneous session-level resource guarantees for real-time applications: An auction approach",
         "pub_year": "2019",
         "citation": "IEEE Journal on Selected Areas in Communications 37 (7), 1534-1548, 2019",
-        "num_citations": 10,
+        "num_citations": 11,
         "author_pub_id": "OiDWDQUAAAAJ:xtRiw3GOFMkC"
     },
     {
@@ -566,7 +566,7 @@
         "title": "Self-organization of a mesh hierarchy for smart grid monitoring in outage scenarios",
         "pub_year": "2013",
         "citation": "2013 IEEE PES Innovative Smart Grid Technologies Conference (ISGT), 1-6, 2013",
-        "num_citations": 11,
+        "num_citations": 12,
         "author_pub_id": "OiDWDQUAAAAJ:mVmsd5A6BfQC"
     },
     {
@@ -587,7 +587,7 @@
         "title": "ShortMAC: Efficient Data-Plane Fault Localization",
         "pub_year": "2012",
         "citation": "NDSS 2012, 2012",
-        "num_citations": 37,
+        "num_citations": 38,
         "author_pub_id": "OiDWDQUAAAAJ:LkGwnXOMwfcC"
     },
     {
@@ -635,7 +635,7 @@
         "title": "Survivable Smart Grid Communication: Smart-Meters Meshes to the Rescue",
         "pub_year": "2012",
         "citation": "International Conference on Computing, Networking and Communications (ICNC), 2012",
-        "num_citations": 29,
+        "num_citations": 30,
         "author_pub_id": "OiDWDQUAAAAJ:Zph67rFs4hoC"
     },
     {
@@ -649,7 +649,7 @@
         "title": "Systems and methods for accuracy and attestation of validity of data shared in a secure distributed environment",
         "pub_year": "2021",
         "citation": "US Patent 11,196,569, 2021",
-        "num_citations": 24,
+        "num_citations": 25,
         "author_pub_id": "OiDWDQUAAAAJ:dshw04ExmUIC"
     },
     {
@@ -795,7 +795,7 @@
         "title": "{SmartAuth}:{User-Centered} authorization for the internet of things",
         "pub_year": "2017",
         "citation": "26th USENIX Security Symposium (USENIX Security 17), 361-378, 2017",
-        "num_citations": 316,
+        "num_citations": 317,
         "author_pub_id": "OiDWDQUAAAAJ:SeFeTyx0c_EC"
     }
 ]
