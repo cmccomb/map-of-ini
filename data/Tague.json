@@ -17,7 +17,7 @@
         "title": "A coding-theoretic approach for efficient message verification over insecure channels",
         "pub_year": "2009",
         "citation": "Proceedings of the second ACM conference on Wireless network security, 151-160, 2009",
-        "num_citations": 62,
+        "num_citations": 61,
         "author_pub_id": "OiDWDQUAAAAJ:u-x6o8ySG0sC"
     },
     {
@@ -73,7 +73,7 @@
         "title": "All your screens are belong to us: attacks exploiting the html5 screen sharing api",
         "pub_year": "2014",
         "citation": "2014 IEEE Symposium on Security and Privacy, 34-48, 2014",
-        "num_citations": 23,
+        "num_citations": 24,
         "author_pub_id": "OiDWDQUAAAAJ:j3f4tGmQtD8C"
     },
     {
@@ -87,14 +87,14 @@
         "title": "Associating a user identity with a mobile device identity",
         "pub_year": "2019",
         "citation": "US Patent 10,354,145, 2019",
-        "num_citations": 0,
+        "num_citations": 11,
         "author_pub_id": "OiDWDQUAAAAJ:zA6iFVUQeVQC"
     },
     {
         "title": "Carving Secure Wi-Fi Zones with Defensive Jamming",
         "pub_year": "2012",
         "citation": "7th ACM Symposium on Information, Computer, and Communications Security …, 2012",
-        "num_citations": 36,
+        "num_citations": 37,
         "author_pub_id": "OiDWDQUAAAAJ:UebtZRa9Y70C"
     },
     {
@@ -143,7 +143,7 @@
         "title": "Digital filter design for jamming mitigation in 802.15. 4 communication",
         "pub_year": "2011",
         "citation": "2011 Proceedings of 20th International Conference on Computer Communications …, 2011",
-        "num_citations": 79,
+        "num_citations": 81,
         "author_pub_id": "OiDWDQUAAAAJ:WF5omc3nYNoC"
     },
     {
@@ -164,7 +164,7 @@
         "title": "Evaluating the vulnerability of network traffic using joint security and routing analysis",
         "pub_year": "2008",
         "citation": "IEEE transactions on dependable and secure computing 6 (2), 111-123, 2008",
-        "num_citations": 54,
+        "num_citations": 52,
         "author_pub_id": "OiDWDQUAAAAJ:Tyk-4Ss8FVUC"
     },
     {
@@ -192,7 +192,7 @@
         "title": "I did not smoke 100 cigarettes today! avoiding false positives in real-world activity recognition",
         "pub_year": "2015",
         "citation": "Proceedings of the 2015 ACM International Joint Conference on Pervasive and …, 2015",
-        "num_citations": 33,
+        "num_citations": 34,
         "author_pub_id": "OiDWDQUAAAAJ:RGFaLdJalmkC"
     },
     {
@@ -234,7 +234,7 @@
         "title": "Is your commute driving you crazy? A study of misbehavior in vehicular platoons",
         "pub_year": "2015",
         "citation": "Proceedings of the 8th ACM Conference on Security & Privacy in Wireless and …, 2015",
-        "num_citations": 93,
+        "num_citations": 95,
         "author_pub_id": "OiDWDQUAAAAJ:O3NaXMp0MMsC"
     },
     {
@@ -310,7 +310,7 @@
         "title": "Linear programming models for jamming attacks on network traffic flows",
         "pub_year": "2008",
         "citation": "2008 6th International Symposium on Modeling and Optimization in Mobile, Ad …, 2008",
-        "num_citations": 84,
+        "num_citations": 85,
         "author_pub_id": "OiDWDQUAAAAJ:2osOgNQ5qMEC"
     },
     {
@@ -338,14 +338,14 @@
         "title": "Mitigation of Periodic Jamming in a Spread Spectrum System by Adaptive Filter Selection",
         "pub_year": "2012",
         "citation": "International Conference on Pervasive and Embedded Computing and …, 2012",
-        "num_citations": 10,
+        "num_citations": 11,
         "author_pub_id": "OiDWDQUAAAAJ:3fE2CSJIrl8C"
     },
     {
         "title": "Mitigation of control channel jamming under node capture attacks",
         "pub_year": "2008",
         "citation": "IEEE TRANSACTIONS ON MOBILE COMPUTING, 8 (9), 2008",
-        "num_citations": 147,
+        "num_citations": 148,
         "author_pub_id": "OiDWDQUAAAAJ:u5HHmVD_uO8C"
     },
     {
@@ -359,7 +359,7 @@
         "title": "Modeling adaptive node capture attacks in multi-hop wireless networks",
         "pub_year": "2007",
         "citation": "Ad Hoc Networks 5 (6), 801-814, 2007",
-        "num_citations": 77,
+        "num_citations": 75,
         "author_pub_id": "OiDWDQUAAAAJ:9yKSN-GCB0IC"
     },
     {
@@ -400,14 +400,14 @@
         "title": "Oauth demystified for mobile application developers",
         "pub_year": "2014",
         "citation": "Proceedings of the 2014 ACM SIGSAC conference on computer and communications …, 2014",
-        "num_citations": 223,
+        "num_citations": 222,
         "author_pub_id": "OiDWDQUAAAAJ:blknAaTinKkC"
     },
     {
         "title": "On the security of thread networks: Experimentation with openthread-enabled devices",
         "pub_year": "2022",
         "citation": "Proceedings of the 15th ACM Conference on Security and Privacy in Wireless …, 2022",
-        "num_citations": 15,
+        "num_citations": 16,
         "author_pub_id": "OiDWDQUAAAAJ:sSrBHYA8nusC"
     },
     {
@@ -442,11 +442,11 @@
         "title": "Pitchln: eavesdropping via intelligible speech reconstruction using non-acoustic sensor fusion",
         "pub_year": "2017",
         "citation": "Proceedings of the 16th ACM/IEEE International Conference on Information …, 2017",
-        "num_citations": 83,
+        "num_citations": 86,
         "author_pub_id": "OiDWDQUAAAAJ:M05iB0D1s5AC"
     },
     {
-        "title": "Plasma Go: A Scalable Sidechain Protocol for Flexible Payment Mechanisms in Blockchain-based Marketplaces",
+        "title": "Plasma go: A scalable sidechain protocol for flexible payment mechanisms in blockchain-based marketplaces",
         "pub_year": "2020",
         "citation": "arXiv preprint arXiv:2003.06197, 2020",
         "num_citations": 5,
@@ -491,7 +491,7 @@
         "title": "Probabilistic mitigation of control channel jamming via random key distribution",
         "pub_year": "2007",
         "citation": "2007 IEEE 18th International Symposium on Personal, Indoor and Mobile Radio …, 2007",
-        "num_citations": 70,
+        "num_citations": 69,
         "author_pub_id": "OiDWDQUAAAAJ:d1gkVwhDpl0C"
     },
     {
@@ -526,7 +526,7 @@
         "title": "Recognizing new activities with limited training data",
         "pub_year": "2015",
         "citation": "Proceedings of the 2015 ACM international symposium on wearable computers, 67-74, 2015",
-        "num_citations": 91,
+        "num_citations": 95,
         "author_pub_id": "OiDWDQUAAAAJ:ns9cj8rnVeAC"
     },
     {
@@ -537,10 +537,10 @@
         "author_pub_id": "OiDWDQUAAAAJ:hFOr9nPyWt4C"
     },
     {
-        "title": "S-SPAN: Secure smart posters in android using NFC",
+        "title": "S-SPAN: Secure smart posters in Android using NFC",
         "pub_year": "2012",
         "citation": "2012 IEEE International Symposium on a World of Wireless, Mobile and …, 2012",
-        "num_citations": 19,
+        "num_citations": 18,
         "author_pub_id": "OiDWDQUAAAAJ:_kc_bZDykSQC"
     },
     {
@@ -607,7 +607,7 @@
         "title": "Smart home occupant identification via sensor fusion across on-object devices",
         "pub_year": "2018",
         "citation": "ACM Transactions on Sensor Networks (TOSN) 14 (3-4), 1-22, 2018",
-        "num_citations": 31,
+        "num_citations": 33,
         "author_pub_id": "OiDWDQUAAAAJ:cFHS6HbyZ2cC"
     },
     {
@@ -628,7 +628,7 @@
         "title": "Supporting privacy-conscious app update decisions with user reviews",
         "pub_year": "2015",
         "citation": "Proceedings of the 5th Annual ACM CCS Workshop on Security and Privacy in …, 2015",
-        "num_citations": 47,
+        "num_citations": 48,
         "author_pub_id": "OiDWDQUAAAAJ:J_g5lzvAfSwC"
     },
     {
@@ -642,14 +642,14 @@
         "title": "Swords and shields: a study of mobile game hacks and existing defenses",
         "pub_year": "2016",
         "citation": "Proceedings of the 32nd Annual Conference on Computer Security Applications …, 2016",
-        "num_citations": 15,
+        "num_citations": 14,
         "author_pub_id": "OiDWDQUAAAAJ:35N4QoGY0k4C"
     },
     {
         "title": "Systems and methods for accuracy and attestation of validity of data shared in a secure distributed environment",
         "pub_year": "2021",
         "citation": "US Patent 11,196,569, 2021",
-        "num_citations": 25,
+        "num_citations": 26,
         "author_pub_id": "OiDWDQUAAAAJ:dshw04ExmUIC"
     },
     {
@@ -670,7 +670,7 @@
         "title": "Systems and methods for providing personal rewards in a trustless ecosystem",
         "pub_year": "2024",
         "citation": "US Patent 11,966,917, 2024",
-        "num_citations": 1,
+        "num_citations": 0,
         "author_pub_id": "OiDWDQUAAAAJ:SP6oXDckpogC"
     },
     {
@@ -698,7 +698,7 @@
         "title": "Towards continuous and passive authentication across mobile devices: an empirical study",
         "pub_year": "2017",
         "citation": "Proceedings of the 10th ACM Conference on Security and Privacy in Wireless …, 2017",
-        "num_citations": 32,
+        "num_citations": 34,
         "author_pub_id": "OiDWDQUAAAAJ:3s1wT3WcHBgC"
     },
     {
@@ -719,7 +719,7 @@
         "title": "Understanding iot security through the data crystal ball: Where we are now and where we are going to be",
         "pub_year": "2017",
         "citation": "arXiv preprint arXiv:1703.09809, 2017",
-        "num_citations": 84,
+        "num_citations": 86,
         "author_pub_id": "OiDWDQUAAAAJ:ldfaerwXgEUC"
     },
     {
@@ -733,7 +733,7 @@
         "title": "UniverSense IoT Device Pairing through Heterogeneous Sensing Signals",
         "pub_year": "2018",
         "citation": "Proceedings of the 19th International Workshop on Mobile Computing Systems …, 2018",
-        "num_citations": 40,
+        "num_citations": 41,
         "author_pub_id": "OiDWDQUAAAAJ:fPk4N6BV_jEC"
     },
     {
@@ -754,7 +754,7 @@
         "title": "Vulnerability of network traffic under node capture attacks using circuit theoretic analysis",
         "pub_year": "2008",
         "citation": "IEEE INFOCOM 2008-The 27th Conference on Computer Communications, 161-165, 2008",
-        "num_citations": 39,
+        "num_citations": 37,
         "author_pub_id": "OiDWDQUAAAAJ:IjCSPb-OGe4C"
     },
     {
@@ -778,7 +778,7 @@
         "author_pub_id": "OiDWDQUAAAAJ:XiSMed-E-HIC"
     },
     {
-        "title": "Xrec: Behavior-based user recognition across mobile devices",
+        "title": "XRec: Behavior-based user recognition across mobile devices",
         "pub_year": "2017",
         "citation": "Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous …, 2017",
         "num_citations": 16,
@@ -795,7 +795,7 @@
         "title": "{SmartAuth}:{User-Centered} authorization for the internet of things",
         "pub_year": "2017",
         "citation": "26th USENIX Security Symposium (USENIX Security 17), 361-378, 2017",
-        "num_citations": 317,
+        "num_citations": 314,
         "author_pub_id": "OiDWDQUAAAAJ:SeFeTyx0c_EC"
     }
 ]
