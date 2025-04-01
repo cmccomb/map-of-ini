@@ -63,10 +63,10 @@
         "author_pub_id": "RH_0tmMAAAAJ:3fE2CSJIrl8C"
     },
     {
-        "title": "Exploration of the Federal Communications Commission's Experimental Radio Service (ERS): Understanding Ten Years of Experimental Spectrum Licenses",
+        "title": "Exploration of the Federal Communications Commission’s Experimental Radio Service (ERS): Understanding ten years of experimental spectrum licenses",
         "pub_year": "2017",
-        "citation": "Available at SSRN 2943486, 2017",
-        "num_citations": 3,
+        "citation": "",
+        "num_citations": 2,
         "author_pub_id": "RH_0tmMAAAAJ:roLk4NBRz8UC"
     },
     {
@@ -80,14 +80,14 @@
         "title": "Government by Code",
         "pub_year": "2022",
         "citation": "Blockchain applications to public sector governance. Blockchain applications …, 2022",
-        "num_citations": 2,
+        "num_citations": 0,
         "author_pub_id": "RH_0tmMAAAAJ:YsMSGLbcyi4C"
     },
     {
         "title": "Government by code? Blockchain applications to public sector governance",
         "pub_year": "2022",
-        "citation": "Frontiers in Blockchain 5, 869665, 2022",
-        "num_citations": 26,
+        "citation": "Frontiers in blockchain 5, 869665, 2022",
+        "num_citations": 32,
         "author_pub_id": "RH_0tmMAAAAJ:qjMakFHDy7sC"
     },
     {
@@ -143,13 +143,13 @@
         "title": "Ostrom amongst the machines: Blockchain as a knowledge commons",
         "pub_year": "2019",
         "citation": "Cosmos+ Taxis 10 (3), 4, 2019",
-        "num_citations": 14,
+        "num_citations": 16,
         "author_pub_id": "RH_0tmMAAAAJ:Se3iqnhoufwC"
     },
     {
         "title": "Polycentric Governance in the US Amateur-Radio Community: Unassigned Spectrum and Promoting Open Innovation",
         "pub_year": "2022",
-        "citation": "Available at SSRN 4178664, 2022",
+        "citation": "SSRN Electronic Journal, 2022",
         "num_citations": 4,
         "author_pub_id": "RH_0tmMAAAAJ:zYLM7Y9cAGgC"
     },
@@ -167,10 +167,17 @@
         "author_pub_id": "RH_0tmMAAAAJ:KlAtU1dfN6UC"
     },
     {
+        "title": "Spectrum Rights in Outer Space: Interference Management for Mega-Constellations",
+        "pub_year": "2022",
+        "citation": "SSRN Electronic Journal, 2022",
+        "num_citations": 5,
+        "author_pub_id": "RH_0tmMAAAAJ:LkGwnXOMwfcC"
+    },
+    {
         "title": "Spectrum anarchy: why self-governance of the radio spectrum works better than we think",
         "pub_year": "2020",
         "citation": "Journal of Institutional Economics 16 (6), 863-882, 2020",
-        "num_citations": 24,
+        "num_citations": 22,
         "author_pub_id": "RH_0tmMAAAAJ:9yKSN-GCB0IC"
     },
     {
@@ -181,17 +188,10 @@
         "author_pub_id": "RH_0tmMAAAAJ:d1gkVwhDpl0C"
     },
     {
-        "title": "Spectrum rights in outer space: Interference management for mega-constellations",
-        "pub_year": "2022",
-        "citation": "SSRN Electronic Journal, 2022",
-        "num_citations": 6,
-        "author_pub_id": "RH_0tmMAAAAJ:LkGwnXOMwfcC"
-    },
-    {
-        "title": "Toward Automated Enforcement of Radio Interference",
+        "title": "Toward automated enforcement of radio interference",
         "pub_year": "2020",
         "citation": "TPRC48: The 48th Research Conference on Communication, Information and …, 2020",
-        "num_citations": 2,
+        "num_citations": 3,
         "author_pub_id": "RH_0tmMAAAAJ:0EnyYjriUFMC"
     },
     {

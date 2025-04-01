@@ -10,14 +10,14 @@
         "title": "Audio authentication based on distributed source coding",
         "pub_year": "2008",
         "citation": "2008 IEEE International Conference on Acoustics, Speech and Signal …, 2008",
-        "num_citations": 18,
+        "num_citations": 17,
         "author_pub_id": "kyxpmt8AAAAJ:8k81kl-MbHgC"
     },
     {
         "title": "Authenticated media communication system and approach",
         "pub_year": "2009",
         "citation": "US Patent App. 12/196,643, 2009",
-        "num_citations": 7,
+        "num_citations": 8,
         "author_pub_id": "kyxpmt8AAAAJ:mVmsd5A6BfQC"
     },
     {
@@ -72,7 +72,7 @@
         "title": "Distributed grayscale stereo image coding with unsupervised learning of disparity",
         "pub_year": "2007",
         "citation": "2007 Data Compression Conference (DCC'07), 143-152, 2007",
-        "num_citations": 51,
+        "num_citations": 50,
         "author_pub_id": "kyxpmt8AAAAJ:UeHWp8X0CEIC"
     },
     {
@@ -128,7 +128,7 @@
         "title": "Image authentication using distributed source coding",
         "pub_year": "2011",
         "citation": "IEEE Transactions on Image Processing 21 (1), 273-283, 2011",
-        "num_citations": 47,
+        "num_citations": 48,
         "author_pub_id": "kyxpmt8AAAAJ:aqlVkmm33-oC"
     },
     {
@@ -163,7 +163,7 @@
         "title": "Optimal electric energy storage operation",
         "pub_year": "2012",
         "citation": "Power and Energy Society General Meeting, 2012 IEEE, 1 - 6, 2012",
-        "num_citations": 77,
+        "num_citations": 78,
         "author_pub_id": "kyxpmt8AAAAJ:ZeXyd9-uunAC"
     },
     {
@@ -177,14 +177,14 @@
         "title": "Rate-adaptive codes for distributed source coding",
         "pub_year": "2006",
         "citation": "Signal processing 86 (11), 3123-3130, 2006",
-        "num_citations": 480,
+        "num_citations": 477,
         "author_pub_id": "kyxpmt8AAAAJ:u5HHmVD_uO8C"
     },
     {
         "title": "Rate-adaptive distributed source coding using low-density parity-check codes",
         "pub_year": "2005",
-        "citation": "Proc. Asilomar Conf. on Signals, Syst., Comput., Pacific Grove, CA, 2005",
-        "num_citations": 170,
+        "citation": "Proc. Asilomar Conference on Signals and Systems, Pacific Grove, CA, 1203-1207, 2005",
+        "num_citations": 169,
         "author_pub_id": "kyxpmt8AAAAJ:u-x6o8ySG0sC"
     },
     {
@@ -205,7 +205,7 @@
         "title": "Region-of-interest prediction for interactively streaming regions of high resolution video",
         "pub_year": "2007",
         "citation": "Packet Video 2007, 68-77, 2007",
-        "num_citations": 53,
+        "num_citations": 51,
         "author_pub_id": "kyxpmt8AAAAJ:Tyk-4Ss8FVUC"
     },
     {
@@ -219,7 +219,7 @@
         "title": "Smart meter privacy using a rechargeable battery: Minimizing the rate of information leakage",
         "pub_year": "2011",
         "citation": "2011 IEEE International Conference on Acoustics, Speech and Signal …, 2011",
-        "num_citations": 197,
+        "num_citations": 193,
         "author_pub_id": "kyxpmt8AAAAJ:5nxA0vEk-isC"
     },
     {
@@ -239,7 +239,7 @@
         "title": "Trellis and convolutional precoding for transmitter-based interference presubtraction",
         "pub_year": "2005",
         "citation": "IEEE Transactions on Communications 53 (7), 1220-1230, 2005",
-        "num_citations": 215,
+        "num_citations": 211,
         "author_pub_id": "kyxpmt8AAAAJ:d1gkVwhDpl0C"
     },
     {
@@ -273,7 +273,7 @@
         "title": "Wyner-Ziv coding of multiview images with unsupervised learning of disparity and Gray code",
         "pub_year": "2008",
         "citation": "2008 15th IEEE International Conference on Image Processing, 1112-1115, 2008",
-        "num_citations": 22,
+        "num_citations": 21,
         "author_pub_id": "kyxpmt8AAAAJ:WF5omc3nYNoC"
     },
     {

@@ -94,7 +94,7 @@
         "title": "Carving Secure Wi-Fi Zones with Defensive Jamming",
         "pub_year": "2012",
         "citation": "7th ACM Symposium on Information, Computer, and Communications Security …, 2012",
-        "num_citations": 37,
+        "num_citations": 38,
         "author_pub_id": "OiDWDQUAAAAJ:UebtZRa9Y70C"
     },
     {
@@ -129,7 +129,7 @@
         "title": "Designing for self-configuration and self-adaptation in the Internet of Things",
         "pub_year": "2013",
         "citation": "9th IEEE International Conference on Collaborative Computing: Networking …, 2013",
-        "num_citations": 67,
+        "num_citations": 68,
         "author_pub_id": "OiDWDQUAAAAJ:HDshCWvjkbEC"
     },
     {
@@ -143,14 +143,14 @@
         "title": "Digital filter design for jamming mitigation in 802.15. 4 communication",
         "pub_year": "2011",
         "citation": "2011 Proceedings of 20th International Conference on Computer Communications …, 2011",
-        "num_citations": 81,
+        "num_citations": 82,
         "author_pub_id": "OiDWDQUAAAAJ:WF5omc3nYNoC"
     },
     {
         "title": "Do you feel what I hear? Enabling autonomous IoT device pairing using different sensor types",
         "pub_year": "2018",
         "citation": "2018 IEEE symposium on Security and Privacy (SP), 836-852, 2018",
-        "num_citations": 149,
+        "num_citations": 152,
         "author_pub_id": "OiDWDQUAAAAJ:4OULZ7Gr8RgC"
     },
     {
@@ -289,7 +289,7 @@
         "title": "LaNet: Real-time Lane Identification by Learning Road SurfaceCharacteristics from Accelerometer Data",
         "pub_year": "2020",
         "citation": "arXiv preprint arXiv:2004.02822, 2020",
-        "num_citations": 0,
+        "num_citations": 1,
         "author_pub_id": "OiDWDQUAAAAJ:uWQEDVKXjbEC"
     },
     {
@@ -345,7 +345,7 @@
         "title": "Mitigation of control channel jamming under node capture attacks",
         "pub_year": "2008",
         "citation": "IEEE TRANSACTIONS ON MOBILE COMPUTING, 8 (9), 2008",
-        "num_citations": 148,
+        "num_citations": 150,
         "author_pub_id": "OiDWDQUAAAAJ:u5HHmVD_uO8C"
     },
     {
@@ -366,7 +366,7 @@
         "title": "Modeling node capture attacks in wireless sensor networks",
         "pub_year": "2008",
         "citation": "2008 46th annual allerton conference on communication, control, and …, 2008",
-        "num_citations": 88,
+        "num_citations": 89,
         "author_pub_id": "OiDWDQUAAAAJ:UeHWp8X0CEIC"
     },
     {
@@ -393,14 +393,14 @@
         "title": "Non-invasive user tracking via passive sensing: Privacy risks of time-series occupancy measurement",
         "pub_year": "2014",
         "citation": "Proceedings of the 2014 Workshop on Artificial Intelligent and Security …, 2014",
-        "num_citations": 29,
+        "num_citations": 30,
         "author_pub_id": "OiDWDQUAAAAJ:hMod-77fHWUC"
     },
     {
         "title": "Oauth demystified for mobile application developers",
         "pub_year": "2014",
         "citation": "Proceedings of the 2014 ACM SIGSAC conference on computer and communications …, 2014",
-        "num_citations": 222,
+        "num_citations": 223,
         "author_pub_id": "OiDWDQUAAAAJ:blknAaTinKkC"
     },
     {
@@ -442,7 +442,7 @@
         "title": "Pitchln: eavesdropping via intelligible speech reconstruction using non-acoustic sensor fusion",
         "pub_year": "2017",
         "citation": "Proceedings of the 16th ACM/IEEE International Conference on Information …, 2017",
-        "num_citations": 86,
+        "num_citations": 87,
         "author_pub_id": "OiDWDQUAAAAJ:M05iB0D1s5AC"
     },
     {
@@ -580,7 +580,7 @@
         "title": "Sensetribute smart home occupant identification via fusion across on-object sensing devices",
         "pub_year": "2017",
         "citation": "Proceedings of the 4th ACM International Conference on Systems for Energy …, 2017",
-        "num_citations": 17,
+        "num_citations": 18,
         "author_pub_id": "OiDWDQUAAAAJ:u_35RYKgDlwC"
     },
     {
@@ -607,7 +607,7 @@
         "title": "Smart home occupant identification via sensor fusion across on-object devices",
         "pub_year": "2018",
         "citation": "ACM Transactions on Sensor Networks (TOSN) 14 (3-4), 1-22, 2018",
-        "num_citations": 33,
+        "num_citations": 34,
         "author_pub_id": "OiDWDQUAAAAJ:cFHS6HbyZ2cC"
     },
     {
@@ -642,7 +642,7 @@
         "title": "Swords and shields: a study of mobile game hacks and existing defenses",
         "pub_year": "2016",
         "citation": "Proceedings of the 32nd Annual Conference on Computer Security Applications …, 2016",
-        "num_citations": 14,
+        "num_citations": 15,
         "author_pub_id": "OiDWDQUAAAAJ:35N4QoGY0k4C"
     },
     {
@@ -684,7 +684,7 @@
         "title": "To accept or not to accept: The question of supplemental discount offers in mobile data plans",
         "pub_year": "2018",
         "citation": "IEEE INFOCOM 2018-IEEE Conference on Computer Communications, 2609-2617, 2018",
-        "num_citations": 6,
+        "num_citations": 7,
         "author_pub_id": "OiDWDQUAAAAJ:dfsIfKJdRG4C"
     },
     {
@@ -754,7 +754,7 @@
         "title": "Vulnerability of network traffic under node capture attacks using circuit theoretic analysis",
         "pub_year": "2008",
         "citation": "IEEE INFOCOM 2008-The 27th Conference on Computer Communications, 161-165, 2008",
-        "num_citations": 37,
+        "num_citations": 38,
         "author_pub_id": "OiDWDQUAAAAJ:IjCSPb-OGe4C"
     },
     {
@@ -781,21 +781,21 @@
         "title": "XRec: Behavior-based user recognition across mobile devices",
         "pub_year": "2017",
         "citation": "Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous …, 2017",
-        "num_citations": 16,
+        "num_citations": 17,
         "author_pub_id": "OiDWDQUAAAAJ:rO6llkc54NcC"
     },
     {
         "title": "Zigator: Analyzing the security of zigbee-enabled smart homes",
         "pub_year": "2020",
         "citation": "Proceedings of the 13th ACM Conference on Security and Privacy in Wireless …, 2020",
-        "num_citations": 38,
+        "num_citations": 39,
         "author_pub_id": "OiDWDQUAAAAJ:u9iWguZQMMsC"
     },
     {
         "title": "{SmartAuth}:{User-Centered} authorization for the internet of things",
         "pub_year": "2017",
         "citation": "26th USENIX Security Symposium (USENIX Security 17), 361-378, 2017",
-        "num_citations": 314,
+        "num_citations": 315,
         "author_pub_id": "OiDWDQUAAAAJ:SeFeTyx0c_EC"
     }
 ]
